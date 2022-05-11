@@ -22,6 +22,13 @@ st.header("This is AgGrid Table")
 gd = GridOptionsBuilder.from_dataframe(df)
 gd.configure_pagination(enabled=True)
 gd.configure_default_column(editable=True,groupable=True)
+# _______________________________________________________________
+# Enabling tooltip - YouTube-Query by Alexis-Raja Brachet  
+# gd.configure_default_column(editable=True,groupable=True,tooltipField = "variant") 
+# hover in any rows( under any columns), the variant of that row, will pop up as tootltip information.However, 
+# I'm yet to figure out, how to implement more than one column information (what I mean - let's say - ["variant", "date"] collectively as tooltip information) , 
+# also, it's bit slow in the begginig  when I tested. 
+# ________________________________________________________________
 
 if _funct == 'Display':
     sel_mode = st.radio('Selection Type', options = ['single', 'multiple'])
