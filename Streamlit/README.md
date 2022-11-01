@@ -1,5 +1,7 @@
 # Streamlit playlist ⬇️
 
+[![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
+
 <!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8"><img width="140px" src="https://i.ytimg.com/vi/J2jBTFovWH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Dimensionality reduction in Machine Learning using Singular Value Decomposition&lpar;SVD&rpar;Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk"><img width="140px" src="https://i.ytimg.com/vi/jUh923Z4fuk/mqdefault.jpg"></a></td>
