@@ -22,4 +22,10 @@
 <td><a href="https://www.youtube.com/watch?v=uzc3OEjjbn8">Build Streamlit Python LOGIN SIGNUP POST SHARING Authorization Web App |Firebase|Python+PYREBASE|P-2</a><br/>Aug 1, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KLmSfHcOXlc"><img width="140px" src="https://i.ytimg.com/vi/KLmSfHcOXlc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KLmSfHcOXlc">Build Streamlit Python LOGIN-SIGNUP -Authentication Web App|Python + Firebase authentication PART 1</a><br/>Jul 17, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ky7mvS0m0nk"><img width="140px" src="https://i.ytimg.com/vi/Ky7mvS0m0nk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ky7mvS0m0nk">STREAMLIT Tutorial |Beginners MINI PROJECT| Build REAL-TIME WEATHER UPDATE WEB APP|OpenWeather API</a><br/>Jun 27, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EMZyVWgUU5A"><img width="140px" src="https://i.ytimg.com/vi/EMZyVWgUU5A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EMZyVWgUU5A">STREAMLIT PYTHON WEB APP connected to GOOGLE SHEET as DATABASE | Automate Google Spreadsheets</a><br/>Jun 23, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=f7wcXCekrnE"><img width="140px" src="https://i.ytimg.com/vi/f7wcXCekrnE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=f7wcXCekrnE">HOW TO USE NOTION with PYTHON and Build STREAMLIT  WEB APP using NOTION API for CONTENT MANAGEMENT</a><br/>Jun 20, 2021</td></tr></table>
 <!-- STREAMLIT:END -->
