@@ -4,3 +4,6 @@
 [submodule "Machine-Learning/Image-Compressor"]
 	path = Machine-Learning/Image-Compressor
 	url = https://github.com/avrabyt/Image-Compressor.git
+[submodule "Bioinformatics/st-speckmol"]
+	path = Bioinformatics/st-speckmol
+	url = https://github.com/avrabyt/st-speckmol.git
