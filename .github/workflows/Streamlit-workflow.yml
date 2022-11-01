@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path: "./Streamlit/Readme.md"
-          comment_tag_name: "YOUTUBE"
+          comment_tag_name: "STREAMLIT"
           max_post_count: 10
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLqQrRCH56DH8JSoGC3hsciV-dQhgFGS1K"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
