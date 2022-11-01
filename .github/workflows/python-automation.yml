@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          readme_path: "./Google-Sheet-Automation/README.md"
+          readme_path: "./Python-Automation/README.md"
           comment_tag_name: "PythonAutomation"
           max_post_count: 50
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLqQrRCH56DH9OTHBZ0j4f_NtAh1SPW0Cg"
