@@ -17,4 +17,4 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-          committer_email: "alwinjohn231@gmail.com"
+          committer_email: "avrab.yt@gmail.com"
