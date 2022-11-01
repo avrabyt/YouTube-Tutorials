@@ -47,3 +47,6 @@ Happy coding! 🥳
 <!-- BLOG-POST-LIST:END -->
 
 Happy reading! 🥳
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
