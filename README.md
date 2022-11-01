@@ -41,6 +41,10 @@ Happy coding! 🥳
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Molecular Structures Visualizing web-application using Python and Streamlit](https://medium.com/@avra42/how-to-build-molecular-structures-visualizing-web-application-using-python-and-streamlit-5ec9da86550c?source=rss-bf79cad6afa1------2)
+- [Streamlit Python Tips— How to avoid your app from rerunning on every widget click?](https://blog.devgenius.io/streamlit-python-tips-how-to-avoid-your-app-from-rerunning-on-every-widget-click-cae99c5189eb?source=rss-bf79cad6afa1------2)
+- [How to Embed Tweets on Streamlit Web Application](https://medium.com/@avra42/how-to-embed-tweets-on-streamlit-web-application-247c01fdf767?source=rss-bf79cad6afa1------2)
+- [Streamlit Python Cool Tricks to make Your Web-Application look better](https://medium.com/@avra42/streamlit-python-cool-tricks-to-make-your-web-application-look-better-8abfc3763a5b?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 Happy reading! 🥳
