@@ -1,0 +1,24 @@
+name: Python Automation Playlist
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+  # #https://youtube.com/playlist?list=PLqQrRCH56DH9OTHBZ0j4f_NtAh1SPW0Cg
+    name: Update this repo's README with latest videos from PlayList of Python Automation 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path: "./Google-Sheet-Automation/README.md"
+          comment_tag_name: "PythonAutomation"
+          max_post_count: 50
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLqQrRCH56DH9OTHBZ0j4f_NtAh1SPW0Cg"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          committer_email: "avrab.yt@gmail.com"
