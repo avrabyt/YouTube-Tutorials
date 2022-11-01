@@ -15,7 +15,7 @@ jobs:
         with:
           readme_path: "./Streamlit/README.md"
           comment_tag_name: "STREAMLIT"
-          max_post_count: 10
+          max_post_count: 50
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLqQrRCH56DH8JSoGC3hsciV-dQhgFGS1K"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
