@@ -1,17 +1,17 @@
-# YouTube-Tutorials 
-
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
-
-**Topics**  
+# [YouTube-Tutorials](https://www.youtube.com/c/Avra_b) 
+**Topics overview**  
 
 `Python` `Streamlit` `Machine-Learning` `Python-Google-sheets` `Python Automation` `Bioinformatics with Python`
 
-
+### ⭐ Support me to keep creating content ☕️ 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AvraCodes)
+-------------
+
 
 
 ### 📺 Latest YouTube Videos
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8"><img width="140px" src="https://i.ytimg.com/vi/J2jBTFovWH8/mqdefault.jpg"></a></td>
@@ -36,7 +36,7 @@
 
 Happy coding! 🥳
 
-# Blog posts
+# 📑 [Blog posts](https://medium.com/@avra42)
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
