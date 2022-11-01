@@ -14,11 +14,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Dimensionality reduction in Machine Learning using Singular Value Decomposition&lpar;SVD&rpar;Python|Streamlit](https://www.youtube.com/watch?v=J2jBTFovWH8)
-- [How to Build PROTEIN VISUALIZATION WEB-APP using PYTHON and STREAMLIT | PART 1](https://www.youtube.com/watch?v=jUh923Z4fuk)
-- [How to automate Google Sheets using Python](https://www.youtube.com/watch?v=ZVfzDOWiOQ0)
-- [Using STREAMLIT with AG Grid Table - Interactive Table | Part 2/2](https://www.youtube.com/watch?v=Zs9-8trPadU)
-- [Using STREAMLIT with AG Grid Table - Interactive Table | Part 1/2](https://www.youtube.com/watch?v=F54ELJwspos)
 <!-- YOUTUBE:END -->
 
 
