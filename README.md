@@ -48,5 +48,8 @@ Happy coding! 🥳
 
 Happy reading! 🥳
 
-# 🐦 [Twitter](https://twitter.com/home)(Stay Connected 🤗)
+# 🐦 [Twitter](https://twitter.com/home)
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Avra_b&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
+Stay Connected 🤗
+Cheers ! 
