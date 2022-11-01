@@ -3,7 +3,7 @@
 
 `Python` `Streamlit` `Machine-Learning` `Python-Google-sheets` `Python Automation` `Bioinformatics with Python`
 
-### ⭐ Support me to keep creating content ☕️ 
+### ⭐ Support me in keep creating these tutorials ☕️ 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AvraCodes)
 -------------
 
