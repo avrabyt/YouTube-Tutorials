@@ -3,7 +3,7 @@
 
 `Python` `Streamlit` `Machine-Learning` `Python-Google-sheets` `Python Automation` `Bioinformatics with Python`
 
-_Folder-wise playlists are also up there for ease!_
+> Folder-wise playlists are also organized!
 
 ### ⭐ ☕️ Support me while I keep creating these tutorials !  
 <a href="https://www.buymeacoffee.com/AvraCodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
