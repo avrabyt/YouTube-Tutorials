@@ -1,3 +1,6 @@
 [submodule "Google-Sheet-Automation/Python-GoogleSheet-YT-Automation"]
 	path = Google-Sheet-Automation/Python-GoogleSheet-YT-Automation
 	url = https://github.com/avrabyt/Python-GoogleSheet-YT-Automation.git
+[submodule "Machine-Learning/Image-Compressor"]
+	path = Machine-Learning/Image-Compressor
+	url = https://github.com/avrabyt/Image-Compressor.git
