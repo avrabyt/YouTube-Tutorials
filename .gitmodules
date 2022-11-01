@@ -1,0 +1,3 @@
+[submodule "Google-Sheet-Automation/Python-GoogleSheet-YT-Automation"]
+	path = Google-Sheet-Automation/Python-GoogleSheet-YT-Automation
+	url = https://github.com/avrabyt/Python-GoogleSheet-YT-Automation.git
