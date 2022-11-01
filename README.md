@@ -1,7 +1,14 @@
 # [YouTube-Tutorials](https://www.youtube.com/c/Avra_b) 
-**Topics overview**  
 
-`Python` `Streamlit` `Machine-Learning` `Python-Google-sheets` `Python Automation` `Bioinformatics with Python`
+**Topics overview**  
+`Python` `Streamlit` `Machine-Learning` `Google-sheets` `Automation` `Pandas` `Bioinformatics`
+
+1. [Streamlit-Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Streamlit)
+2. [Machine-Learning for all](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Machine-Learning)
+3. [Bioinformatics with Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Bioinformatics)
+4. [Python-Automation](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Google-Sheet-Automation)
+
+  - [ ] More projects will be updated with time...
 
 > Folder-wise playlists are also organized!
 
