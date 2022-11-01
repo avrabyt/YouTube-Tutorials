@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Streamlit Playlist
 on:
   schedule:
     # Runs every hour, on the hour
