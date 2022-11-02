@@ -1,8 +1,8 @@
 name: Python Automation Playlist
 on:
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    # Runs at 00:00 UTC every day. 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
