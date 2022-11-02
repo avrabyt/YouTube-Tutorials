@@ -1,0 +1,3 @@
+[submodule "Bioinformatics with Python/st-speckmol"]
+	path = Bioinformatics with Python/st-speckmol
+	url = https://github.com/avrabyt/st-speckmol.git
