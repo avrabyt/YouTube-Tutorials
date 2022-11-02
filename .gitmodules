@@ -1,9 +1,9 @@
-[submodule "Google-Sheet-Automation/Python-GoogleSheet-YT-Automation"]
-	path = Google-Sheet-Automation/Python-GoogleSheet-YT-Automation
+[submodule "Python-Automation/Python-GoogleSheet-YT-Automation"]
+	path = Python-Automation/Python-GoogleSheet-YT-Automation
 	url = https://github.com/avrabyt/Python-GoogleSheet-YT-Automation.git
-[submodule "Machine-Learning/Image-Compressor"]
-	path = Machine-Learning/Image-Compressor
+[submodule "Machine-Learning for all/Image-Compressor"]
+	path = Machine-Learning for all/Image-Compressor
 	url = https://github.com/avrabyt/Image-Compressor.git
-[submodule "Bioinformatics/st-speckmol"]
-	path = Bioinformatics/st-speckmol
+[submodule "Bioinformatics with Python/st-speckmol"]
+	path = Bioinformatics with Python/st-speckmol
 	url = https://github.com/avrabyt/st-speckmol.git
