@@ -2,7 +2,7 @@ name: Streamlit Playlist
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
