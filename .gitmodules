@@ -1,3 +1,9 @@
 [submodule "Bioinformatics with Python/st-speckmol"]
 	path = Bioinformatics with Python/st-speckmol
 	url = https://github.com/avrabyt/st-speckmol.git
+[submodule "Python-Automation/Python-GoogleSheet-YT-Automation"]
+	path = Python-Automation/Python-GoogleSheet-YT-Automation
+	url = https://github.com/avrabyt/Python-GoogleSheet-YT-Automation.git
+[submodule "Machine-Learning for all/Image-Compressor"]
+	path = Machine-Learning for all/Image-Compressor
+	url = https://github.com/avrabyt/Image-Compressor.git
