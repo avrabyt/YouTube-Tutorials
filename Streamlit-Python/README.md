@@ -5,7 +5,7 @@
 <!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ">Principal Component Analysis &lpar;PCA&rpar;  demo web app |Python|Streamlit| Machine Learning</a><br/>Nov 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8"><img width="140px" src="https://i.ytimg.com/vi/J2jBTFovWH8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Dimensionality reduction in Machine Learning using Singular Value Decomposition&lpar;SVD&rpar;Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Singular Value Decomposition&lpar;SVD&rpar; web app|Dimensionality reduction|Machine Learning|Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk"><img width="140px" src="https://i.ytimg.com/vi/jUh923Z4fuk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk">How to Build PROTEIN VISUALIZATION WEB-APP using PYTHON and STREAMLIT | PART 1</a><br/>Sep 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zs9-8trPadU"><img width="140px" src="https://i.ytimg.com/vi/Zs9-8trPadU/mqdefault.jpg"></a></td>
