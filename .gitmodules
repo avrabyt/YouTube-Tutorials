@@ -7,3 +7,6 @@
 [submodule "Machine-Learning for all/Image-Compressor"]
 	path = Machine-Learning for all/Image-Compressor
 	url = https://github.com/avrabyt/Image-Compressor.git
+[submodule "Streamlit-Python/Streamlit-Readme-to-App"]
+	path = Streamlit-Python/Streamlit-Readme-to-App
+	url = https://github.com/avrabyt/Streamlit-Readme-to-App.git
