@@ -7,7 +7,7 @@ from st_aggrid.grid_options_builder import GridOptionsBuilder
 
 @st.cache
 def data_upload():
-    df = pd.read_csv("covid-variants.csv")
+    df = pd.read_csv("Data/covid-variants.csv")
     return df
 
 #st.header("This is Streamlit Default Dataframe")
