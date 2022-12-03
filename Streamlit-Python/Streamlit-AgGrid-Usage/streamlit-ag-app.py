@@ -6,7 +6,6 @@ import glob
 # Functions
 # Fixing path issue with explicitly (bad practice!)
 file = glob.glob('Streamlit-Python/Streamlit-AgGrid-Usage/Data/*', recursive=True)
-file 
 
 @st.cache
 def data_upload(file):

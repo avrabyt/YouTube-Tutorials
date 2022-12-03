@@ -4,8 +4,8 @@ from st_aggrid.grid_options_builder import GridOptionsBuilder
 import pandas as pd
 import glob
 # Fixing path issue with explicitly (bad practice!)
-file = glob.glob('Data/*.csv', recursive=True)
-file
+file = glob.glob('Streamlit-Python/Streamlit-AgGrid-Usage/Data/*', recursive=True)
+
 # Load data
 @st.cache
 def data_upload():
