@@ -5,6 +5,7 @@ import pandas as pd
 import glob
 # Fixing path issue with explicitly (bad practice!)
 file = glob.glob('Data/*.csv', recursive=True)
+file
 # Load data
 @st.cache
 def data_upload():
