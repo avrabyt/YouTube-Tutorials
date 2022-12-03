@@ -5,7 +5,7 @@ from st_aggrid.grid_options_builder import GridOptionsBuilder
 import glob
 # Functions
 # Fixing path issue with explicitly (bad practice!)
-file = glob.glob('Streamlit-Python/Streamlit-AgGrid-Usage/*', recursive=True)
+file = glob.glob('Streamlit-Python/Streamlit-AgGrid-Usage/Data/*', recursive=True)
 file 
 
 @st.cache
