@@ -2,16 +2,18 @@ import streamlit as st
 import pandas as pd
 from st_aggrid import AgGrid, GridUpdateMode, JsCode
 from st_aggrid.grid_options_builder import GridOptionsBuilder
-
+import glob
 # Functions
+# Fixing path issue with explicitly (bad practice!)
+file = glob.glob('Data/*.csv', recursive=True)
 
 @st.cache
-def data_upload():
-    df = pd.read_csv("Data/covid-variants.csv")
+def data_upload(file):
+    df = pd.read_csv(file[0])
     return df
 
 #st.header("This is Streamlit Default Dataframe")
-df = data_upload()
+df = data_upload(file)
 # st.dataframe(data=df)
 # st.info(len(df))
 
