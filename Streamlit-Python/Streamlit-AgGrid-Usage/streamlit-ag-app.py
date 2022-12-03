@@ -39,7 +39,7 @@ if _funct == 'Display':
                         height = 500,
                         allow_unsafe_jscode=True,
                         #enable_enterprise_modules = True,
-                        theme = 'fresh')
+                        theme = 'balham')
 
     sel_row = grid_table["selected_rows"]
     st.subheader("Output")
@@ -77,7 +77,7 @@ if _funct == 'Highlight':
             fit_columns_on_grid_load = True,
             height=500,
             width='100%',
-            theme = "material",
+            # theme = "material",
             update_mode = GridUpdateMode.SELECTION_CHANGED,
             reload_data = True,
             allow_unsafe_jscode=True,
@@ -102,7 +102,7 @@ if _funct == 'Delete':
                 fit_columns_on_grid_load = True,
                 height=500,
                 width='100%',
-                theme = "streamlit",
+                # theme = "streamlit",
                 update_mode = GridUpdateMode.SELECTION_CHANGED,
                 reload_data = True,
                 allow_unsafe_jscode=True,

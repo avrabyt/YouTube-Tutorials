@@ -6,7 +6,7 @@ import pandas as pd
 # Load data
 @st.cache
 def data_upload():
-    df = pd.read_csv("Streamlit-AgGrid-Usage/covid-variants.csv")
+    df = pd.read_csv("covid-variants.csv")
     return df
 st.subheader("Data")
 df = data_upload()
