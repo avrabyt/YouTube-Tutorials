@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from st_aggrid import AgGrid, JsCode
 from st_aggrid.grid_options_builder import GridOptionsBuilder
+from database import *
 
 # This demo is mainly from the suggestion on Community Post 
 # https://www.youtube.com/channel/UCDMP6ATYKNXMvn2ok1gfM7Q/community?lb=UgkxMTe1HSFYPta6YDSZCXqkSCp2cKfyiYmU
@@ -30,6 +31,8 @@ with st.expander('🤩 What I plan to demonstrate today ? ', expanded=False):
                 ◻ 2. Display any `update` made from the user-end
                 
                 ◻ 3. `Download` the AgGrid table
+                
+                ◻ 4. `Connect` to Database
                 ''')
 
 # Dump any DataFrame
@@ -113,14 +116,20 @@ with st.form('Itenary') as f:
     st.write(" *Note: Don't forget to hit enter ↩ on new entry.*")
     st.form_submit_button("Confirm item(s) 🔒", type="primary")
 # Dump                     )
-st.write(response['data']) 
+res = response['data']
+st.table(res) 
 
+col1,col2 = st.columns(2)
 # https://docs.streamlit.io/knowledge-base/using-streamlit/how-download-pandas-dataframe-csv
 csv = convert_df(response['data'])
-st.download_button(
+col1.download_button(
    "Press to Download 🗳️",
    csv,
    "file.csv",
    "text/csv",
    key='download-csv'
 )
+
+if col2.button("Update to Database 🚀 "):
+    send_to_database(res)
+    
