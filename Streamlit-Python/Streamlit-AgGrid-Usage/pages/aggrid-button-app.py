@@ -7,10 +7,33 @@ from st_aggrid.grid_options_builder import GridOptionsBuilder
 # https://www.youtube.com/channel/UCDMP6ATYKNXMvn2ok1gfM7Q/community?lb=UgkxMTe1HSFYPta6YDSZCXqkSCp2cKfyiYmU
 # ".....Another suggestion for streamlit-aggrid features to explore is buttons inside the aggrid. 
 # I think it would be interesting because there aren't many examples of that in the Streamlit forum.""
+@st.experimental_memo
+def convert_df(df):
+   return df.to_csv(index=False).encode('utf-8')
 
-st.header("Implementing Button within AgGrid table")
+
+st.header("AgGrid Demo `Part 3`")
+with st.expander(' 🎉 What have we done untill now ? ', expanded=False):
+    st.markdown('''
+                
+                ✅ 1. `Working` with AgGrid Table 
+                
+                ✅ 2. `Highlighting` AgGrid Table
+                
+                ✅ 3. `Deleting` rows in AgGrid Table
+                ''')
+with st.expander('🤩 What I plan to demonstrate today ? ', expanded=False):
+    st.markdown('''
+                
+                ◻ 1. Implementing `button` within AgGrid table
+                
+                ◻ 2. Display any `update` made from the user-end
+                
+                ◻ 3. `Download` the AgGrid table
+                ''')
+
 # Dump any DataFrame
-d = {'col1': [1, 2], 'col2': [3, 4]}
+d = {'Type':['Notebook', 'DVDs'] ,'Quantity': [1, 2],'Price': [400, 200]}
 df = pd.DataFrame(data = d)
 
 # Dump as AgGrid Table
@@ -48,7 +71,7 @@ cellRenderer_addButton = JsCode('''
                     display: inline-block;
                     font-size: 12px;
                     font-weight: bold;
-                    height: 2.2em;
+                    height: 2em;
                     width: 10em;
                     border-radius: 12px;
                     padding: 0px;
@@ -71,13 +94,33 @@ cellRenderer_addButton = JsCode('''
 # Dump as AgGrid Table
 # AgGrid(df)
 gd = GridOptionsBuilder.from_dataframe(df)
-gd.configure_column(field = '',  
+gd.configure_default_column(editable=True)
+gd.configure_column(field = '🔧',  
                     onCellClicked = js_add_row,
                     cellRenderer = cellRenderer_addButton,
-                    lockPosition='right')
+                    lockPosition='left')
 gridoptions = gd.build()
-grid_table = AgGrid(df,gridOptions = gridoptions,
+# This part for updating the Grid so that Streamlit doesnot rerun from whole
+with st.form('Itenary') as f:
+    st.header('Itenary List 🔖')
+    response = AgGrid(df,
+                    gridOptions = gridoptions, 
+                    editable=True,
                     allow_unsafe_jscode = True,
-                    theme = 'balham', 
-                    height = 400,
-                    )
+                    theme = 'balham',
+                    height = 200,
+                    fit_columns_on_grid_load = True)
+    st.write(" *Note: Don't forget to hit enter ↩ on new entry.*")
+    st.form_submit_button("Confirm item(s) 🔒", type="primary")
+# Dump                     )
+st.write(response['data']) 
+
+# https://docs.streamlit.io/knowledge-base/using-streamlit/how-download-pandas-dataframe-csv
+csv = convert_df(response['data'])
+st.download_button(
+   "Press to Download 🗳️",
+   csv,
+   "file.csv",
+   "text/csv",
+   key='download-csv'
+)
