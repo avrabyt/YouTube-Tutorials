@@ -116,12 +116,16 @@ with st.form('Itenary') as f:
     st.write(" *Note: Don't forget to hit enter ↩ on new entry.*")
     st.form_submit_button("Confirm item(s) 🔒", type="primary")
 # Dump                     )
+st.subheader("Updated Itenary")
 res = response['data']
 st.table(res) 
-
+st.subheader("Visualize Itenary")
+st.bar_chart(data=res, x = 'Type', y = 'Price')
+st.subheader("Store Itenary")
 col1,col2 = st.columns(2)
 # https://docs.streamlit.io/knowledge-base/using-streamlit/how-download-pandas-dataframe-csv
 csv = convert_df(response['data'])
+col1.write("Save in Local Machine?")
 col1.download_button(
    "Press to Download 🗳️",
    csv,
@@ -130,6 +134,7 @@ col1.download_button(
    key='download-csv'
 )
 
+col2.write("Save in Shared Cloud?")
 if col2.button("Update to Database 🚀 "):
     send_to_database(res)
     
