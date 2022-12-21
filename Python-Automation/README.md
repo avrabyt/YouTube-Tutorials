@@ -2,7 +2,9 @@
 
 [![Python Automation Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml)
 
-<!-- PythonAutomation:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
+<!-- PythonAutomation:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Build Streamlit Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET</a><br/>Dec 6, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ">Principal Component Analysis &lpar;PCA&rpar;  demo web app |Python|Streamlit| Machine Learning</a><br/>Nov 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8"><img width="140px" src="https://i.ytimg.com/vi/J2jBTFovWH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Singular Value Decomposition&lpar;SVD&rpar; web app|Dimensionality reduction|Machine Learning|Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>

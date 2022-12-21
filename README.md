@@ -26,7 +26,9 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AiIptnSahMs"><img width="140px" src="https://i.ytimg.com/vi/AiIptnSahMs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Build Streamlit Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET</a><br/>Dec 6, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AiIptnSahMs"><img width="140px" src="https://i.ytimg.com/vi/AiIptnSahMs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AiIptnSahMs">Streamlit Quick Tip - Convert GitHub README files to Streamlit Web App using Streamlit Markdown</a><br/>Nov 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ">Principal Component Analysis &lpar;PCA&rpar;  demo web app |Python|Streamlit| Machine Learning</a><br/>Nov 8, 2022</td></tr></table>
@@ -34,8 +36,6 @@
 <td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Singular Value Decomposition&lpar;SVD&rpar; web app|Dimensionality reduction|Machine Learning|Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk"><img width="140px" src="https://i.ytimg.com/vi/jUh923Z4fuk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk">How to Build PROTEIN VISUALIZATION WEB-APP using PYTHON and STREAMLIT | PART 1</a><br/>Sep 22, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZVfzDOWiOQ0"><img width="140px" src="https://i.ytimg.com/vi/ZVfzDOWiOQ0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZVfzDOWiOQ0">How to automate Google Sheets using Python</a><br/>May 16, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
@@ -52,6 +52,7 @@ Happy coding! 🥳
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Summarizing Scientific Articles with OpenAI ✨ and Streamlit](https://medium.com/@avra42/summarizing-scientific-articles-with-openai-and-streamlit-fdee12aa1a2b?source=rss-bf79cad6afa1------2)
 - [How to Build Molecular Structures Visualizing web-application using Python and Streamlit](https://medium.com/@avra42/how-to-build-molecular-structures-visualizing-web-application-using-python-and-streamlit-5ec9da86550c?source=rss-bf79cad6afa1------2)
 - [Streamlit Python Tips— How to avoid your app from rerunning on every widget click?](https://blog.devgenius.io/streamlit-python-tips-how-to-avoid-your-app-from-rerunning-on-every-widget-click-cae99c5189eb?source=rss-bf79cad6afa1------2)
 - [How to Embed Tweets on Streamlit Web Application](https://medium.com/@avra42/how-to-embed-tweets-on-streamlit-web-application-247c01fdf767?source=rss-bf79cad6afa1------2)
