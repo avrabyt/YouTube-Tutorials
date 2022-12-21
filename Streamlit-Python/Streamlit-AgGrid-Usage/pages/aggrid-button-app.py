@@ -104,8 +104,8 @@ gd.configure_column(field = '🔧',
                     lockPosition='left')
 gridoptions = gd.build()
 # This part for updating the Grid so that Streamlit doesnot rerun from whole
-with st.form('Itenary') as f:
-    st.header('Itenary List 🔖')
+with st.form('Inventory') as f:
+    st.header('Inventory List 🔖')
     response = AgGrid(df,
                     gridOptions = gridoptions, 
                     editable=True,
@@ -116,12 +116,12 @@ with st.form('Itenary') as f:
     st.write(" *Note: Don't forget to hit enter ↩ on new entry.*")
     st.form_submit_button("Confirm item(s) 🔒", type="primary")
 # Dump                     )
-st.subheader("Updated Itenary")
+st.subheader("Updated Inventory")
 res = response['data']
 st.table(res) 
-st.subheader("Visualize Itenary")
+st.subheader("Visualize Inventory")
 st.bar_chart(data=res, x = 'Type', y = 'Price')
-st.subheader("Store Itenary")
+st.subheader("Store Inventory")
 col1,col2 = st.columns(2)
 # https://docs.streamlit.io/knowledge-base/using-streamlit/how-download-pandas-dataframe-csv
 csv = convert_df(response['data'])
