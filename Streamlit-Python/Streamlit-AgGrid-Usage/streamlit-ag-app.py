@@ -19,6 +19,17 @@ df = data_upload(file)
 
 _funct = st.sidebar.radio(label="Functions", options = ['Display','Highlight','Delete'])
 
+with st.sidebar:
+    st.markdown('''
+                ## Relevant Post : 
+            I published a Meidum Article on ,
+            ```
+            Automate Streamlit Web App using Interactive AgGrid with Google Sheets
+            ```
+            [here's](https://medium.com/towards-data-science/automate-streamlit-web-app-using-interactive-aggrid-with-google-sheets-81b93fd9e648) the link to the article.
+            
+            '''
+
 st.header("This is AgGrid Table")
 
 gd = GridOptionsBuilder.from_dataframe(df)
