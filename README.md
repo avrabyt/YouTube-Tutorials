@@ -10,7 +10,7 @@
 
   - [ ] More projects will be updated with time...
 
-> Folder-wise playlists are also organized!
+- [x] Folder-wise playlists are also organized.
 
 ### ⭐ ☕️ Support me while I keep creating these tutorials !  
 <a href="https://www.buymeacoffee.com/AvraCodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
