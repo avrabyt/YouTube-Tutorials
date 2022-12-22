@@ -24,7 +24,7 @@ st.sidebar.markdown('''
 
 st.header("AgGrid Demo `Part 3`")
 
-with st.expander('TL;DR', expanded=False):
+with st.expander('TL;DR', expanded=True):
    
    st.markdown('''
                Medium Article : 
@@ -157,4 +157,4 @@ col2.write("Save in Shared Cloud?")
 if col2.button("Update to Database 🚀 "):
     send_to_database(res)
 
-st.video('https://youtu.be/sOFM334iILs') 
+st.sidebar.video('https://youtu.be/sOFM334iILs') 
