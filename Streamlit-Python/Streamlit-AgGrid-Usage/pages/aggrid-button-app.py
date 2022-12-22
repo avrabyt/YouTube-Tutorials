@@ -31,13 +31,17 @@ with st.expander(' Previosuly : ', expanded=False):
                 ✅ 2. `Highlighting` AgGrid Table
                 
                 ✅ 3. `Deleting` rows in AgGrid Table
+                
+                > Link to the YouTube videos :
+                >   - 1. [AgGrid Part 1](https://youtu.be/F54ELJwspos)
+                >   - 2. [AgGrid Part 2](https://youtu.be/Zs9-8trPadU)
                 ''')
 with st.expander('TL;DR', expanded=True):
     st.markdown('''
                 
-                > Demonstrates how to use the AgGrid library in a Streamlit app to create an interactive data table.
-                > It shows how to connect the table to a Google Sheets database and send data from the table to the database.
-                > Additionally implementing JavaScript callbacks for adding rows to the AgGrid table.Implementing `button` within AgGrid table.
+                > Demonstrates how to use the `AgGrid` library in a Streamlit app to create an `interactive` data table.
+                > It shows how to `connect` the table to a `Google Sheets` database and send data from the table to the database.
+                > Additionally implementing `JavaScript` callbacks for adding rows to the AgGrid table.Implementing `button` within AgGrid table.
                 > Also, `Downloading` the AgGrid table
                 
                 ''')
