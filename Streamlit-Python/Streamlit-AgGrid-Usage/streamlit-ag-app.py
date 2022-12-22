@@ -21,8 +21,7 @@ st.sidebar.title("AgGrid Demo examples")
 
 _funct = st.sidebar.radio(label="Functions", options = ['Display','Highlight','Delete'])
 
-
- st.markdown('''
+st.markdown('''
                 - ## Relevant Post : 
                 I published a Meidum Article on ,
                 ```
@@ -33,7 +32,7 @@ _funct = st.sidebar.radio(label="Functions", options = ['Display','Highlight','D
                     - 1. [AgGrid Part 1](https://youtu.be/F54ELJwspos)
                     - 2. [AgGrid Part 2](https://youtu.be/Zs9-8trPadU)
                     - 3. [AgGrid Part 3](https://youtu.be/sOFM334iILs)
-            ''')
+            ''' )
   
 
 st.header("This is AgGrid Table")
