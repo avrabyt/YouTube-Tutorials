@@ -12,6 +12,15 @@ from database import *
 def convert_df(df):
    return df.to_csv(index=False).encode('utf-8')
 
+st.sidebar.markdown('''
+                - ## Medium Article : 
+                    [**Automate Streamlit Web App using Interactive AgGrid with Google Sheets**](https://medium.com/towards-data-science/automate-streamlit-web-app-using-interactive-aggrid-with-google-sheets-81b93fd9e648).
+                
+                - ## Link to the YouTube videos :
+                    - 1. [AgGrid Part 1](https://youtu.be/F54ELJwspos)
+                    - 2. [AgGrid Part 2](https://youtu.be/Zs9-8trPadU)
+                    - 3. [AgGrid Part 3](https://youtu.be/sOFM334iILs)
+            ''' )
 
 st.header("AgGrid Demo `Part 3`")
 with st.expander(' 🎉 What have we done untill now ? ', expanded=False):
