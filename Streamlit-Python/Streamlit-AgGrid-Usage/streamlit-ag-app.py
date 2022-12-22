@@ -31,6 +31,8 @@ st.sidebar.markdown('''
                     - 3. [AgGrid Part 3](https://youtu.be/sOFM334iILs)
             ''' )
   
+st.sidebar.video('https://youtu.be/F54ELJwspos')
+st.sidebar.video('https://youtu.be/Zs9-8trPadU')
 
 st.header("This is AgGrid Table")
 
