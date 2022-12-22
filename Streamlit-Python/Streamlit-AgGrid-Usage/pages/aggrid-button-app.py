@@ -24,9 +24,11 @@ st.sidebar.markdown('''
 
 st.header("AgGrid Demo `Part 3`")
 
-with st.expander('TL;DR', expanded=True):
+with st.expander('TL;DR', expanded=False):
    
    st.markdown('''
+               Medium Article : 
+                    [**Automate Streamlit Web App using Interactive AgGrid with Google Sheets**](https://medium.com/towards-data-science/automate-streamlit-web-app-using-interactive-aggrid-with-google-sheets-81b93fd9e648).                
 
                 > Demonstrates how to use the `AgGrid` library in a Streamlit app to create an `interactive` data table.
                 > It shows how to `connect` the table to a `Google Sheets` database and send data from the table to the database.
@@ -35,7 +37,7 @@ with st.expander('TL;DR', expanded=True):
                 Link to the YouTube video : [AgGrid Part 3](https://youtu.be/sOFM334iILs)
 
                 ''')
-   st.video('https://youtu.be/sOFM334iILs') 
+
 
 with st.expander(' Previosuly : ', expanded=False):
     st.markdown('''
@@ -154,4 +156,5 @@ col1.download_button(
 col2.write("Save in Shared Cloud?")
 if col2.button("Update to Database 🚀 "):
     send_to_database(res)
-    
+
+st.video('https://youtu.be/sOFM334iILs') 
