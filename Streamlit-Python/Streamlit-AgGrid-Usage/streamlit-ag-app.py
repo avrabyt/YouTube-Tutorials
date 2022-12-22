@@ -17,18 +17,24 @@ df = data_upload(file)
 # st.dataframe(data=df)
 # st.info(len(df))
 
+st.sidebar.title("AgGrid Demo examples")
+
 _funct = st.sidebar.radio(label="Functions", options = ['Display','Highlight','Delete'])
 
-with st.sidebar:
-    st.markdown('''
-                ## Relevant Post : 
+
+ st.markdown('''
+                - ## Relevant Post : 
                 I published a Meidum Article on ,
                 ```
                 Automate Streamlit Web App using Interactive AgGrid with Google Sheets
                 ```
                 [here's](https://medium.com/towards-data-science/automate-streamlit-web-app-using-interactive-aggrid-with-google-sheets-81b93fd9e648) the link to the article.
-
+                - ## Link to the YouTube videos :
+                    - 1. [AgGrid Part 1](https://youtu.be/F54ELJwspos)
+                    - 2. [AgGrid Part 2](https://youtu.be/Zs9-8trPadU)
+                    - 3. [AgGrid Part 3](https://youtu.be/sOFM334iILs)
             ''')
+  
 
 st.header("This is AgGrid Table")
 
