@@ -15,7 +15,7 @@ def data_upload(file):
 st.header("AgGrid Demo `Part 1` & `Part 2`")
 st.sidebar.title("AgGrid Examples")
 df = data_upload(file)
-if st.checkbox("Show Streamlit Default Dataframe")
+if st.checkbox("Show Streamlit Default Dataframe"):
     st.subheader("This is how Default Streamlit Dataframe looks!")
     st.dataframe(data=df)
 # st.info(len(df))
