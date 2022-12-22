@@ -12,12 +12,13 @@ def data_upload(file):
     df = pd.read_csv(file[0])
     return df
 
-#st.header("This is Streamlit Default Dataframe")
+st.header("AgGrid Demo `Part 1` & `Part 2`")
+st.sidebar.title("AgGrid Examples")
 df = data_upload(file)
-# st.dataframe(data=df)
+if st.checkbox("Show Streamlit Default Dataframe")
+    st.subheader("This is how Default Streamlit Dataframe looks!")
+    st.dataframe(data=df)
 # st.info(len(df))
-
-st.sidebar.title("AgGrid Demo examples")
 
 _funct = st.sidebar.radio(label="Functions", options = ['Display','Highlight','Delete'])
 
@@ -34,7 +35,7 @@ st.sidebar.markdown('''
 st.sidebar.video('https://youtu.be/F54ELJwspos')
 st.sidebar.video('https://youtu.be/Zs9-8trPadU')
 
-st.header("This is AgGrid Table")
+st.subheader("This is how AgGrid Table looks!")
 
 gd = GridOptionsBuilder.from_dataframe(df)
 gd.configure_pagination(enabled=True)
