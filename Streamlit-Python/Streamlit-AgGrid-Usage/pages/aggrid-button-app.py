@@ -22,7 +22,7 @@ st.sidebar.markdown('''
                     - 3. [AgGrid Part 3](https://youtu.be/sOFM334iILs)
             ''' )
 
-st.title("AgGrid Demo `Part 3` : Automate Streamlit Web App using Interactive AgGrid with Google Sheets ")
+st.header("AgGrid Demo `Part 3`")
 
 with st.expander('TL;DR', expanded=True):
     st.markdown('''
