@@ -23,7 +23,7 @@ st.sidebar.markdown('''
             ''' )
 
 st.header("AgGrid Demo `Part 3`")
-with st.expander(' 🎉 What have we done untill now ? ', expanded=False):
+with st.expander(' Previosuly : ', expanded=False):
     st.markdown('''
                 
                 ✅ 1. `Working` with AgGrid Table 
@@ -32,16 +32,14 @@ with st.expander(' 🎉 What have we done untill now ? ', expanded=False):
                 
                 ✅ 3. `Deleting` rows in AgGrid Table
                 ''')
-with st.expander('🤩 What I plan to demonstrate today ? ', expanded=False):
+with st.expander('TL;DR', expanded=True):
     st.markdown('''
                 
-                ◻ 1. Implementing `button` within AgGrid table
+                > Demonstrates how to use the AgGrid library in a Streamlit app to create an interactive data table.
+                  It shows how to connect the table to a Google Sheets database and send data from the table to the database.
+                  Additionally implementing JavaScript callbacks for adding rows to the AgGrid table.Implementing `button` within AgGrid table.
+                  Also, `Download` the AgGrid table
                 
-                ◻ 2. Display any `update` made from the user-end
-                
-                ◻ 3. `Download` the AgGrid table
-                
-                ◻ 4. `Connect` to Database
                 ''')
 
 # Dump any DataFrame
