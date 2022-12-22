@@ -21,13 +21,10 @@ st.sidebar.title("AgGrid Demo examples")
 
 _funct = st.sidebar.radio(label="Functions", options = ['Display','Highlight','Delete'])
 
-st.markdown('''
+st.sidebar.markdown('''
                 - ## Relevant Post : 
-                I published a Meidum Article on ,
-                ```
-                Automate Streamlit Web App using Interactive AgGrid with Google Sheets
-                ```
-                [here's](https://medium.com/towards-data-science/automate-streamlit-web-app-using-interactive-aggrid-with-google-sheets-81b93fd9e648) the link to the article.
+                I published a Meidum Article,[here's](https://medium.com/towards-data-science/automate-streamlit-web-app-using-interactive-aggrid-with-google-sheets-81b93fd9e648) the link to the article.
+                **Automate Streamlit Web App using Interactive AgGrid with Google Sheets**
                 - ## Link to the YouTube videos :
                     - 1. [AgGrid Part 1](https://youtu.be/F54ELJwspos)
                     - 2. [AgGrid Part 2](https://youtu.be/Zs9-8trPadU)
