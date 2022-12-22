@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw"><img width="140px" src="https://i.ytimg.com/vi/cVBUOQAlrOw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw">OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI</a><br/>Dec 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Build Streamlit Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET</a><br/>Dec 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AiIptnSahMs"><img width="140px" src="https://i.ytimg.com/vi/AiIptnSahMs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AiIptnSahMs">Streamlit Quick Tip - Convert GitHub README files to Streamlit Web App using Streamlit Markdown</a><br/>Nov 27, 2022</td></tr></table>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=KLmSfHcOXlc">Build Streamlit Python LOGIN-SIGNUP -Authentication Web App|Python + Firebase authentication PART 1</a><br/>Jul 17, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ky7mvS0m0nk"><img width="140px" src="https://i.ytimg.com/vi/Ky7mvS0m0nk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ky7mvS0m0nk">STREAMLIT Tutorial |Beginners MINI PROJECT| Build REAL-TIME WEATHER UPDATE WEB APP|OpenWeather API</a><br/>Jun 27, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=f7wcXCekrnE"><img width="140px" src="https://i.ytimg.com/vi/f7wcXCekrnE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=f7wcXCekrnE">HOW TO USE NOTION with PYTHON and Build STREAMLIT  WEB APP using NOTION API for CONTENT MANAGEMENT</a><br/>Jun 20, 2021</td></tr></table>
 <!-- STREAMLIT:END -->
