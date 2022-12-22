@@ -31,9 +31,10 @@ with st.expander('TL;DR', expanded=True):
                 > It shows how to `connect` the table to a `Google Sheets` database and send data from the table to the database.
                 > Additionally implementing `JavaScript` callbacks for adding rows to the AgGrid table.Implementing `button` within AgGrid table.
                 > Also, `Downloading` the AgGrid table
-                Link to the YouTube video :[AgGrid Part 3](https://youtu.be/sOFM334iILs)
+                Link to the YouTube video : [AgGrid Part 3](https://youtu.be/sOFM334iILs)
                 
                 ''')
+      st.video('https://youtu.be/sOFM334iILs') 
 
 with st.expander(' Previosuly : ', expanded=False):
     st.markdown('''
