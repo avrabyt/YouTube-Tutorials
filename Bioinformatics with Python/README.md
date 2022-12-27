@@ -3,4 +3,6 @@
 
 <!-- Bioinformatics:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk"><img width="140px" src="https://i.ytimg.com/vi/jUh923Z4fuk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk">How to Build PROTEIN VISUALIZATION WEB-APP using PYTHON and STREAMLIT | PART 1</a><br/>Sep 22, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EMZyVWgUU5A"><img width="140px" src="https://i.ytimg.com/vi/EMZyVWgUU5A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EMZyVWgUU5A">STREAMLIT PYTHON WEB APP connected to GOOGLE SHEET as DATABASE | Automate Google Spreadsheets</a><br/>Jun 23, 2021</td></tr></table>
 <!-- Bioinformatics:END -->
