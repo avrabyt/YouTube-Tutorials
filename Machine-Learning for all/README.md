@@ -2,13 +2,13 @@
 
 <!-- ML:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">ChatGPT🤖helped me to Build this Data Science Web App! 🎄</a><br/>Dec 29, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Build Streamlit Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET</a><br/>Dec 6, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0"><img width="140px" src="https://i.ytimg.com/vi/BHwVRI9N8B0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0">OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python  @OpenAI​ @streamlit5916​</a><br/>Dec 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw"><img width="140px" src="https://i.ytimg.com/vi/cVBUOQAlrOw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw">OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI</a><br/>Dec 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ">Principal Component Analysis &lpar;PCA&rpar;  demo web app |Python|Streamlit| Machine Learning</a><br/>Nov 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8"><img width="140px" src="https://i.ytimg.com/vi/J2jBTFovWH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Singular Value Decomposition&lpar;SVD&rpar; web app|Dimensionality reduction|Machine Learning|Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZVfzDOWiOQ0"><img width="140px" src="https://i.ytimg.com/vi/ZVfzDOWiOQ0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZVfzDOWiOQ0">How to automate Google Sheets using Python</a><br/>May 16, 2022</td></tr></table>
 <!-- ML:END -->
                                                                                                        
