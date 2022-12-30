@@ -3,10 +3,11 @@
 **Topics overview**  
 `Python` `Streamlit` `Machine-Learning` `Google-sheets` `Automation` `Pandas` `Bioinformatics`
 
-1. [Streamlit-Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Streamlit)
-2. [Machine-Learning for all](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Machine-Learning)
-3. [Bioinformatics with Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Bioinformatics)
-4. [Python-Automation](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Google-Sheet-Automation)
+1. [Streamlit-Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Streamlit-Python)
+2. [Machine-Learningfor all](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Machine-Learning%20for%20all)
+3. [AI /chatGPT etc](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Machine-Learning%20for%20all)
+4. [Python-Automation](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Python-Automation)
+5. [Bioinformatics with Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Bioinformatics%20with%20Python)
 
   - [ ] More projects will be updated with time...
 
