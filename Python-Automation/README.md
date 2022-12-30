@@ -12,4 +12,6 @@
 <td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Singular Value Decomposition&lpar;SVD&rpar; web app|Dimensionality reduction|Machine Learning|Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZVfzDOWiOQ0"><img width="140px" src="https://i.ytimg.com/vi/ZVfzDOWiOQ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZVfzDOWiOQ0">How to automate Google Sheets using Python</a><br/>May 16, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EMZyVWgUU5A"><img width="140px" src="https://i.ytimg.com/vi/EMZyVWgUU5A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EMZyVWgUU5A">STREAMLIT PYTHON WEB APP connected to GOOGLE SHEET as DATABASE | Automate Google Spreadsheets</a><br/>Jun 23, 2021</td></tr></table>
 <!-- PythonAutomation:END -->
