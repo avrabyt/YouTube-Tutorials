@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0"><img width="140px" src="https://i.ytimg.com/vi/BHwVRI9N8B0/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">ChatGPT🤖helped me to Build this Data Science Web App! 🎄</a><br/>Dec 29, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0"><img width="140px" src="https://i.ytimg.com/vi/BHwVRI9N8B0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0">OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python  @OpenAI​ @streamlit5916​</a><br/>Dec 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw"><img width="140px" src="https://i.ytimg.com/vi/cVBUOQAlrOw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw">OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI</a><br/>Dec 21, 2022</td></tr></table>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=G9U4Uixssf0">STREAMLIT Python TRICKS - make your WEB APP look BETTER in 6 Minutes |Machine Learning| Data Science</a><br/>Aug 12, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uzc3OEjjbn8"><img width="140px" src="https://i.ytimg.com/vi/uzc3OEjjbn8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uzc3OEjjbn8">Build Streamlit Python LOGIN SIGNUP POST SHARING Authorization Web App |Firebase|Python+PYREBASE|P-2</a><br/>Aug 1, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KLmSfHcOXlc"><img width="140px" src="https://i.ytimg.com/vi/KLmSfHcOXlc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KLmSfHcOXlc">Build Streamlit Python LOGIN-SIGNUP -Authentication Web App|Python + Firebase authentication PART 1</a><br/>Jul 17, 2021</td></tr></table>
 <!-- STREAMLIT:END -->
