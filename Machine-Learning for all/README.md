@@ -1,7 +1,7 @@
 # [Machine-Learning for all Play List](https://youtube.com/playlist?list=PLqQrRCH56DH_H3MgBEFPdU787x2tGDpyd) ⬇️
 
 <!-- ML:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">ChatGPT🤖helped me to Build this Data Science Web App! 🎄</a><br/>Dec 29, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">ChatGPT built this Data Science Web App! &lpar;Holiday coding sessions 🎄&rpar;</a><br/>Dec 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0"><img width="140px" src="https://i.ytimg.com/vi/BHwVRI9N8B0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0">OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python  @OpenAI​ @streamlit5916​</a><br/>Dec 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw"><img width="140px" src="https://i.ytimg.com/vi/cVBUOQAlrOw/mqdefault.jpg"></a></td>
