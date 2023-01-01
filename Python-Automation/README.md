@@ -3,7 +3,7 @@
 [![Python Automation Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml)
 
 <!-- PythonAutomation:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">ChatGPT🤖helped me to Build this Data Science Web App! 🎄</a><br/>Dec 29, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">ChatGPT built this Data Science Web App! &lpar;Holiday coding sessions 🎄&rpar;</a><br/>Dec 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Build Streamlit Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET</a><br/>Dec 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
