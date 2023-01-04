@@ -1,13 +1,15 @@
 # [YouTube-Tutorials](https://www.youtube.com/c/Avra_b) 
 
 **Topics overview**  
-`Python` `Streamlit` `Machine-Learning` `Google-sheets` `Automation` `Pandas` `Bioinformatics`
+`Python` `Streamlit` `Machine-Learning` `openAI` `Google-sheets` `Automation` `Pandas` `Bioinformatics` `chatGPT`
 
 1. [Streamlit-Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Streamlit-Python)
-2. [Machine-Learningfor all](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Machine-Learning%20for%20all)
+2. [Machine-Learning for all](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Machine-Learning%20for%20all)
 3. [AI /chatGPT etc](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Machine-Learning%20for%20all)
 4. [Python-Automation](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Python-Automation)
 5. [Bioinformatics with Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Bioinformatics%20with%20Python)
+6. [openAI / chatGPT Web Apps](https://github.com/avrabyt/Holiday-coding-session/tree/5af12fbdc474b07f70397390e5040096b92814d2)
+
 
   - [ ] More projects will be updated with time...
 
