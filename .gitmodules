@@ -10,3 +10,6 @@
 [submodule "Streamlit-Python/Streamlit-Readme-to-App"]
 	path = Streamlit-Python/Streamlit-Readme-to-App
 	url = https://github.com/avrabyt/Streamlit-Readme-to-App.git
+[submodule "Holiday-coding-session"]
+	path = Holiday-coding-session
+	url = https://github.com/avrabyt/Holiday-coding-session.git
