@@ -29,8 +29,8 @@ render_image = JsCode('''
         
         img.src = params.value;
         
-        img.width = 40;
-        img.height = 40;
+        img.width = 35;
+        img.height = 35;
         
         return img;
         
