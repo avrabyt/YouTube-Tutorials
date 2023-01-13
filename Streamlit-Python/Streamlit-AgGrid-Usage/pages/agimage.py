@@ -49,7 +49,7 @@ grid_options = options_builder.build()
 grid = AgGrid(df, 
                 gridOptions = grid_options,
                 allow_unsafe_jscode=True,
-                height=200, width=500, theme='streamlit')
+                height=400, width=500, theme='streamlit')
 
 sel_row = grid["selected_rows"]
 if sel_row:
