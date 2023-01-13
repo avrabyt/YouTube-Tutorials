@@ -19,8 +19,8 @@ data = {
         'rating': [9.2, 9.2, 9.0, 9.0],
         }
 df = pd.DataFrame(data)
-st.write(df)
-
+#st.write(df)
+st.header("AgGrid table with Image Display")
 render_image = JsCode('''
                       
     function renderImage(params){
