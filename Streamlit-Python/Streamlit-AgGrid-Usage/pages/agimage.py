@@ -1,0 +1,57 @@
+# Import Modules
+import streamlit as st
+import pandas as pd
+from st_aggrid import AgGrid, JsCode
+from st_aggrid.grid_options_builder import GridOptionsBuilder
+
+# Dummy data
+data = {'name': ['The Shawshank Redemption', 'The Godfather', 'The Godfather: Part II', 'The Dark Knight'],
+        'year': [1994, 1972, 1974, 2008],
+        'description': ['Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.',
+                        'The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.',
+                        'The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate.',
+                        'When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.'],
+        'rating': [9.2, 9.2, 9.0, 9.0],
+        'image_url': ['https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg',
+                      'https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,704,1000_AL_.jpg',
+                      'https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,679,1000_AL_.jpg',
+                      'https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg']}
+df = pd.DataFrame(data)
+st.write(df)
+
+render_image = JsCode('''
+                      
+    function renderImage(params){
+    // Create a new image element
+        var img = new Image();
+        
+        img.src = params.value;
+        
+        img.width = 50;
+        img.height = 50;
+        
+        return img;
+        
+    }             
+                      ''')
+
+# build gridoptions object
+
+# Build GridOptions object
+options_builder = GridOptionsBuilder.from_dataframe(df)
+options_builder.configure_column('image_url', cellRenderer = render_image)
+options_builder.configure_selection(selection_mode="single", use_checkbox=True)
+grid_options = options_builder.build()
+
+# Create AgGrid component
+grid = AgGrid(df, 
+                gridOptions = grid_options,
+                allow_unsafe_jscode=True,
+                height=200, width=500, theme='streamlit')
+
+sel_row = grid["selected_rows"]
+if sel_row:
+    col1, col2 = st.columns(2)
+    st.info(sel_row[0]['description'])
+    col1.image(sel_row[0]['image_url'],caption = sel_row[0]['name'])
+    col2.subheader("Rating: " + str(sel_row[0]['rating']))
