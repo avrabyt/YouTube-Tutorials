@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak"><img width="140px" src="https://i.ytimg.com/vi/3Ax3S8g2bak/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">How I coded this Data Science Web App using ChatGPT from scratch! &lpar;Holiday coding sessions 🎄&rpar;</a><br/>Dec 29, 2022</td></tr></table>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=P4NJOpiZvY0">How to Embed Tweets within Streamlit Web Application| Python |Twitter oEMbed API</a><br/>Nov 22, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pzh1Zo5XDtM"><img width="140px" src="https://i.ytimg.com/vi/pzh1Zo5XDtM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pzh1Zo5XDtM">STREAMLIT PYTHON COMPONENTS build by THE COMMUNITY|Interactive Table, Lottie Animation,3D-Mol &amp; more</a><br/>Oct 17, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=G9U4Uixssf0"><img width="140px" src="https://i.ytimg.com/vi/G9U4Uixssf0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=G9U4Uixssf0">STREAMLIT Python TRICKS - make your WEB APP look BETTER in 6 Minutes |Machine Learning| Data Science</a><br/>Aug 12, 2021</td></tr></table>
 <!-- STREAMLIT:END -->
