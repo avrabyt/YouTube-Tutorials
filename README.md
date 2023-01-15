@@ -57,11 +57,11 @@ Happy coding! 🥳
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing AgGrid table with Image Display in Streamlit Apps](https://medium.com/the-streamlit-teacher/enhancing-aggrid-table-with-image-display-in-streamlit-apps-425b6e989d5b?source=rss-bf79cad6afa1------2)
 - [ChatGPT helped me to built this Data Science Web App using Streamlit-Python](https://medium.com/@avra42/chatgpt-build-this-data-science-web-app-using-streamlit-python-25acca3cecd4?source=rss-bf79cad6afa1------2)
 - [Build Your Own Chatbot  with openAI GPT-3 and Streamlit](https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846?source=rss-bf79cad6afa1------2)
 - [Automate Streamlit Web App using Interactive AgGrid with Google Sheets](https://towardsdatascience.com/automate-streamlit-web-app-using-interactive-aggrid-with-google-sheets-81b93fd9e648?source=rss-bf79cad6afa1------2)
 - [Summarizing Scientific Articles with OpenAI ✨ and Streamlit](https://medium.com/@avra42/summarizing-scientific-articles-with-openai-and-streamlit-fdee12aa1a2b?source=rss-bf79cad6afa1------2)
-- [How to Build Molecular Structures Visualizing web-application using Python and Streamlit](https://medium.com/@avra42/how-to-build-molecular-structures-visualizing-web-application-using-python-and-streamlit-5ec9da86550c?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 Happy reading! 🥳
