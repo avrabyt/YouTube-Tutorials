@@ -20,7 +20,19 @@ data = {
         }
 df = pd.DataFrame(data)
 #st.write(df)
-st.header("AgGrid table with Image Display")
+st.header("AgGrid Demo `Part 4`: Grid table with Image Display")
+
+with st.expander('TL;DR', expanded=True):
+   
+   st.markdown('''
+               Medium Article : 
+                    [**Enhancing AgGrid table with Image Display in Streamlit Apps**](https://medium.com/the-streamlit-teacher/enhancing-aggrid-table-with-image-display-in-streamlit-apps-425b6e989d5b).                
+                > The streamlit-aggrid library allows us to easily add the AgGrid component to a Streamlit app and customize it with various options.
+                > We can use a custom cell renderer function to display images in cells of the AgGrid component.
+                > By combining the powerful features of AgGrid with the simplicity of Streamlit, we can create interactive and informative data visualization apps quickly and easily.
+
+                Link to the YouTube video : [AgGrid Part 4 : Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python](https://youtu.be/3Ax3S8g2bak)
+                ''')
 render_image = JsCode('''
                       
     function renderImage(params){
@@ -57,3 +69,15 @@ if sel_row:
     st.info(sel_row[0]['description'])
     col1.image(sel_row[0]['image_url'],caption = sel_row[0]['name'])
     col2.subheader("Rating: " + str(sel_row[0]['rating']))
+
+st.sidebar.markdown('''
+                - ## Medium Article : 
+                   [**Enhancing AgGrid table with Image Display in Streamlit Apps**](https://medium.com/the-streamlit-teacher/enhancing-aggrid-table-with-image-display-in-streamlit-apps-425b6e989d5b)
+                
+                - ## Link to the YouTube videos :
+                    - 1. [AgGrid Part 1](https://youtu.be/F54ELJwspos)
+                    - 2. [AgGrid Part 2](https://youtu.be/Zs9-8trPadU)
+                    - 3. [AgGrid Part 3](https://youtu.be/sOFM334iILs)
+                    - 4. [AgGrid Part 3](https://youtu.be/3Ax3S8g2bak)
+            ''' )
+st.sidebar.video('https://youtu.be/3Ax3S8g2bak')         
