@@ -78,6 +78,6 @@ st.sidebar.markdown('''
                     - 1. [AgGrid Part 1](https://youtu.be/F54ELJwspos)
                     - 2. [AgGrid Part 2](https://youtu.be/Zs9-8trPadU)
                     - 3. [AgGrid Part 3](https://youtu.be/sOFM334iILs)
-                    - 4. [AgGrid Part 3](https://youtu.be/3Ax3S8g2bak)
+                    - 4. [AgGrid Part 4](https://youtu.be/3Ax3S8g2bak)
             ''' )
 st.sidebar.video('https://youtu.be/3Ax3S8g2bak')         
