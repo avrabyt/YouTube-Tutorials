@@ -2,7 +2,9 @@
 
 [![Python Automation Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml)
 
-<!-- PythonAutomation:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
+<!-- PythonAutomation:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT built this AI Tweet Generator Web App | OpenAI | Streamlit | Python |</a><br/>Jan 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">How I coded this Data Science Web App using ChatGPT from scratch! &lpar;Holiday coding sessions 🎄&rpar;</a><br/>Dec 29, 2022</td></tr></table>
