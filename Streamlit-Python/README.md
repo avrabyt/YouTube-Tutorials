@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak"><img width="140px" src="https://i.ytimg.com/vi/3Ax3S8g2bak/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT built this AI Tweet Generator Web App | OpenAI | Streamlit | Python |</a><br/>Jan 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak"><img width="140px" src="https://i.ytimg.com/vi/3Ax3S8g2bak/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=dPdB7zyGttg">STREAMLIT TRICKS - Web App RERUNS on every WIDGET CLICKS ? Here&#39;s WHAT-TO-DO |SessionState| PYTHON</a><br/>Dec 16, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=P4NJOpiZvY0"><img width="140px" src="https://i.ytimg.com/vi/P4NJOpiZvY0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=P4NJOpiZvY0">How to Embed Tweets within Streamlit Web Application| Python |Twitter oEMbed API</a><br/>Nov 22, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pzh1Zo5XDtM"><img width="140px" src="https://i.ytimg.com/vi/pzh1Zo5XDtM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pzh1Zo5XDtM">STREAMLIT PYTHON COMPONENTS build by THE COMMUNITY|Interactive Table, Lottie Animation,3D-Mol &amp; more</a><br/>Oct 17, 2021</td></tr></table>
 <!-- STREAMLIT:END -->
