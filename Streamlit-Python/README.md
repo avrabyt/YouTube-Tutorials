@@ -3,7 +3,7 @@
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
 <!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT built this AI Tweet Generator Web App | OpenAI | Streamlit | Python |</a><br/>Jan 19, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT built this AI TWEET GENERATOR Web App....</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak"><img width="140px" src="https://i.ytimg.com/vi/3Ax3S8g2bak/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
@@ -15,7 +15,7 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw"><img width="140px" src="https://i.ytimg.com/vi/cVBUOQAlrOw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw">OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI</a><br/>Dec 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Build Streamlit Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET</a><br/>Dec 6, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET |JavaScript Injection |</a><br/>Dec 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AiIptnSahMs"><img width="140px" src="https://i.ytimg.com/vi/AiIptnSahMs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AiIptnSahMs">Streamlit Quick Tip - Convert GitHub README files to Streamlit Web App using Streamlit Markdown</a><br/>Nov 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
