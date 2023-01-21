@@ -32,7 +32,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT built this AI Tweet Generator Web App | OpenAI | Streamlit | Python |</a><br/>Jan 19, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT built this AI TWEET GENERATOR Web App....</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak"><img width="140px" src="https://i.ytimg.com/vi/3Ax3S8g2bak/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
