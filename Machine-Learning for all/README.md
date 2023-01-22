@@ -1,7 +1,7 @@
 # [Machine-Learning for all Play List](https://youtube.com/playlist?list=PLqQrRCH56DH_H3MgBEFPdU787x2tGDpyd) ⬇️
 
 <!-- ML:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT built this AI TWEET GENERATOR Web App....</a><br/>Jan 19, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT : Built a Python Web App using openAI GPT-3 to create personalized tweets | Streamlit |</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
