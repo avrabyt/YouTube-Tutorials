@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE">Is ChatGPT PRO &lpar;Paid Version&rpar; worth the $42 monthly? @OpenAI’s API as cheaper alternatives &amp; more …</a><br/>Jan 21, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT: &quot;Here is an example of AI TWEET- GENERATOR WEB APP &quot; using @OpenAIGPT3 + STREAMLIT + PYTHON</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak"><img width="140px" src="https://i.ytimg.com/vi/3Ax3S8g2bak/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=F54ELJwspos">Using STREAMLIT with AG Grid Table - Interactive Table | Part 1/2</a><br/>Mar 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dPdB7zyGttg"><img width="140px" src="https://i.ytimg.com/vi/dPdB7zyGttg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dPdB7zyGttg">STREAMLIT TRICKS - Web App RERUNS on every WIDGET CLICKS ? Here&#39;s WHAT-TO-DO |SessionState| PYTHON</a><br/>Dec 16, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=P4NJOpiZvY0"><img width="140px" src="https://i.ytimg.com/vi/P4NJOpiZvY0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=P4NJOpiZvY0">How to Embed Tweets within Streamlit Web Application| Python |Twitter oEMbed API</a><br/>Nov 22, 2021</td></tr></table>
 <!-- STREAMLIT:END -->
