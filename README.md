@@ -31,7 +31,9 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA"><img width="140px" src="https://i.ytimg.com/vi/HEKmXqie-nA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">Convert Excel Sheets to Animated Plots in Python using IPYVIZZU | Interactive Data Visualization</a><br/>Jan 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE">Is ChatGPT PRO &lpar;Paid Version&rpar; worth the $42 monthly? @OpenAI’s API as cheaper alternatives &amp; more …</a><br/>Jan 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT: &quot;Here is an example of AI TWEET- GENERATOR WEB APP &quot; using @OpenAIGPT3 + STREAMLIT + PYTHON</a><br/>Jan 19, 2023</td></tr></table>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">How I coded this Data Science Web App using ChatGPT from scratch! &lpar;Holiday coding sessions 🎄&rpar;</a><br/>Dec 29, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
