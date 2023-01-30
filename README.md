@@ -32,7 +32,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA"><img width="140px" src="https://i.ytimg.com/vi/HEKmXqie-nA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">Convert Excel Sheets to Animated Plots in Python using IPYVIZZU | Interactive Data Visualization</a><br/>Jan 28, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">Convert Excel Sheets to Animated Plots in Python using IPYVIZZU |Part 1 | #datavisualization #plots</a><br/>Jan 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE">Is ChatGPT PRO &lpar;Paid Version&rpar; worth the $42 monthly? @OpenAI’s API as cheaper alternatives &amp; more …</a><br/>Jan 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
