@@ -3,7 +3,7 @@
 [![Python Automation Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml)
 
 <!-- PythonAutomation:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA"><img width="140px" src="https://i.ytimg.com/vi/HEKmXqie-nA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">Convert Excel Sheets to Animated Plots in Python using IPYVIZZU |Part 1 | #datavisualization #plots</a><br/>Jan 28, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">How to create ANIMATED PLOTS EASILY in PYTHON using IPYVIZZU &lpar;Part 1&rpar;</a><br/>Jan 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
