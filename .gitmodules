@@ -16,3 +16,6 @@
 [submodule "Streamlit-Readme-to-App"]
 	path = Streamlit-Readme-to-App
 	url = https://github.com/avrabyt/Streamlit-Readme-to-App.git
+[submodule "openAI-embeddings-Streamlit"]
+	path = openAI-embeddings-Streamlit
+	url = https://github.com/avrabyt/openAI-embeddings-Streamlit.git
