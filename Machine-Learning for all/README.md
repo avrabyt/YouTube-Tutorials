@@ -1,6 +1,8 @@
 # [Machine-Learning for all Play List](https://youtube.com/playlist?list=PLqQrRCH56DH_H3MgBEFPdU787x2tGDpyd) ⬇️
 
-<!-- ML:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
+<!-- ML:START --><table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=393BsKexv2A">OPENAI EMBEDDINGS + STREAMLIT  WEB APP : SEMANTIC  TEXT SEARCH | text-embedding-ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE">Is ChatGPT PRO &lpar;Paid Version&rpar; worth the $42 monthly? @OpenAI’s API as cheaper alternatives &amp; more …</a><br/>Jan 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U"><img width="140px" src="https://i.ytimg.com/vi/8eevfJ-qk7U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT: &quot;Here is an example of AI TWEET- GENERATOR WEB APP &quot; using @OpenAIGPT3 + STREAMLIT + PYTHON</a><br/>Jan 19, 2023</td></tr></table>
