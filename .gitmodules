@@ -19,3 +19,6 @@
 [submodule "openAI-embeddings-Streamlit"]
 	path = openAI-embeddings-Streamlit
 	url = https://github.com/avrabyt/openAI-embeddings-Streamlit.git
+[submodule "OpenAI-Streamlit-YouTube"]
+	path = OpenAI-Streamlit-YouTube
+	url = https://github.com/avrabyt/OpenAI-Streamlit-YouTube.git
