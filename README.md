@@ -32,7 +32,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=393BsKexv2A">OPENAI EMBEDDINGS + STREAMLIT  WEB APP : SEMANTIC  TEXT SEARCH | text-embedding-ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=393BsKexv2A">I built my own SEMANTIC TEXT SEARCH WEB APP using OPENAI EMBEDDINGS + STREAMLIT |  ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA"><img width="140px" src="https://i.ytimg.com/vi/HEKmXqie-nA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">How to create ANIMATED PLOTS EASILY in PYTHON using IPYVIZZU &lpar;Part 1&rpar;</a><br/>Jan 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
