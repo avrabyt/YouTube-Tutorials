@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">CHAT-GPT like COMPLETIONS in PYTHON? Using @OpenAI + Streamlit, Build AI-ASSISTANT BOT WEB APP</a><br/>Feb 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=393BsKexv2A">I built my own SEMANTIC TEXT SEARCH WEB APP using OPENAI EMBEDDINGS + STREAMLIT |  ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE">Is ChatGPT PRO &lpar;Paid Version&rpar; worth the $42 monthly? @OpenAI’s API as cheaper alternatives &amp; more …</a><br/>Jan 21, 2023</td></tr></table>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk">How to Build PROTEIN VISUALIZATION WEB-APP using PYTHON and STREAMLIT | Bioinformatics |</a><br/>Sep 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zs9-8trPadU"><img width="140px" src="https://i.ytimg.com/vi/Zs9-8trPadU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zs9-8trPadU">Using STREAMLIT with AG Grid Table - Interactive Table | Part 2/2</a><br/>Mar 16, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=F54ELJwspos"><img width="140px" src="https://i.ytimg.com/vi/F54ELJwspos/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=F54ELJwspos">Using STREAMLIT with AG Grid Table - Interactive Table | Part 1/2</a><br/>Mar 4, 2022</td></tr></table>
 <!-- STREAMLIT:END -->
