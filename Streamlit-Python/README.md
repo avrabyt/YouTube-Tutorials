@@ -19,7 +19,7 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0"><img width="140px" src="https://i.ytimg.com/vi/BHwVRI9N8B0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0">OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python  @OpenAI​ @streamlitofficial​</a><br/>Dec 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw"><img width="140px" src="https://i.ytimg.com/vi/cVBUOQAlrOw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw">OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI</a><br/>Dec 21, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw">How to build OpenAI Web Apps in Python | Streamlit | GPT3 text-da-vinci model for Summarizer App</a><br/>Dec 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET |JavaScript Injection |</a><br/>Dec 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AiIptnSahMs"><img width="140px" src="https://i.ytimg.com/vi/AiIptnSahMs/mqdefault.jpg"></a></td>
