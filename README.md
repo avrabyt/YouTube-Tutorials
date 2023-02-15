@@ -32,7 +32,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">CHAT-GPT like COMPLETIONS in PYTHON? Using @OpenAI + Streamlit, Build AI-ASSISTANT BOT WEB APP</a><br/>Feb 11, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">How to build AI-ASSISTANT with CHAT-GPT-LIKE LIVE STREAM COMPLETIONS in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=393BsKexv2A">I built my own SEMANTIC TEXT SEARCH WEB APP using OPENAI EMBEDDINGS + STREAMLIT |  ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA"><img width="140px" src="https://i.ytimg.com/vi/HEKmXqie-nA/mqdefault.jpg"></a></td>
