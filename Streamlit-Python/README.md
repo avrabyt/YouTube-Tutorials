@@ -2,8 +2,10 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">How to build AI-ASSISTANT with CHAT-GPT-LIKE LIVE STREAM COMPLETIONS in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso"><img width="140px" src="https://i.ytimg.com/vi/1TnW0Ug_Sso/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso">What&#39;s NEW in AI world which we MUST NOT MISS &lpar;ChatGPT Plus, WEB APPS @OpenAI  + @streamlitofficial&rpar;</a><br/>Feb 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">CHAT-GPT-LIKE live STREAM completions AI-ASSISTANT BOT in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=393BsKexv2A">I built my own SEMANTIC TEXT SEARCH WEB APP using OPENAI EMBEDDINGS + STREAMLIT |  ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Singular Value Decomposition&lpar;SVD&rpar; web app|Dimensionality reduction|Machine Learning|Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk"><img width="140px" src="https://i.ytimg.com/vi/jUh923Z4fuk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jUh923Z4fuk">How to Build PROTEIN VISUALIZATION WEB-APP using PYTHON and STREAMLIT | Bioinformatics |</a><br/>Sep 22, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Zs9-8trPadU"><img width="140px" src="https://i.ytimg.com/vi/Zs9-8trPadU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zs9-8trPadU">Using STREAMLIT with AG Grid Table - Interactive Table | Part 2/2</a><br/>Mar 16, 2022</td></tr></table>
 <!-- STREAMLIT:END -->
