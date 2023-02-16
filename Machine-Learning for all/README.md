@@ -1,7 +1,9 @@
 # [Machine-Learning for all Play List](https://youtube.com/playlist?list=PLqQrRCH56DH_H3MgBEFPdU787x2tGDpyd) ⬇️
 
-<!-- ML:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">How to build AI-ASSISTANT with CHAT-GPT-LIKE LIVE STREAM COMPLETIONS in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
+<!-- ML:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso"><img width="140px" src="https://i.ytimg.com/vi/1TnW0Ug_Sso/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso">What&#39;s NEW in AI world which we MUST NOT MISS &lpar;ChatGPT Plus, WEB APPS @OpenAI  + @streamlitofficial&rpar;</a><br/>Feb 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">CHAT-GPT-LIKE live STREAM completions AI-ASSISTANT BOT in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=393BsKexv2A">I built my own SEMANTIC TEXT SEARCH WEB APP using OPENAI EMBEDDINGS + STREAMLIT |  ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZLdXkU5nncE"><img width="140px" src="https://i.ytimg.com/vi/ZLdXkU5nncE/mqdefault.jpg"></a></td>
