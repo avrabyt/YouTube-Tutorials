@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0"><img width="140px" src="https://i.ytimg.com/vi/VVSiI-FFrV0/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cHjlperESbg"><img width="140px" src="https://i.ytimg.com/vi/cHjlperESbg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cHjlperESbg">CHATBOT 🤖 that REMEMBERS 🧠 using GPT-3.5-TURBO 🦜 LANGCHAIN AIs Memory 🔗  @OpenAI  @streamlit Python</a><br/>Mar 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0"><img width="140px" src="https://i.ytimg.com/vi/VVSiI-FFrV0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0">USING  🦜 LANGCHAIN AIs SequentialChain 🔗 : BUILD - @OpenAI  @streamlit Web APP | Python</a><br/>Feb 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso"><img width="140px" src="https://i.ytimg.com/vi/1TnW0Ug_Sso/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso">What&#39;s NEW in AI world which we MUST NOT MISS &lpar;ChatGPT Plus, WEB APPS @OpenAI  + @streamlitofficial&rpar;</a><br/>Feb 15, 2023</td></tr></table>
@@ -30,6 +32,4 @@
 <td><a href="https://www.youtube.com/watch?v=AiIptnSahMs">Streamlit Quick Tip - Convert GitHub README files to Streamlit Web App using Streamlit Markdown</a><br/>Nov 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ">Principal Component Analysis &lpar;PCA&rpar;  demo web app |Python|Streamlit| Machine Learning</a><br/>Nov 8, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8"><img width="140px" src="https://i.ytimg.com/vi/J2jBTFovWH8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=J2jBTFovWH8">Singular Value Decomposition&lpar;SVD&rpar; web app|Dimensionality reduction|Machine Learning|Python|Streamlit</a><br/>Oct 29, 2022</td></tr></table>
 <!-- STREAMLIT:END -->
