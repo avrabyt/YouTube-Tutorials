@@ -32,7 +32,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cHjlperESbg"><img width="140px" src="https://i.ytimg.com/vi/cHjlperESbg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cHjlperESbg">CHATBOT 🤖 that REMEMBERS 🧠 using GPT-3.5-TURBO 🦜 LANGCHAIN AIs Memory 🔗  @OpenAI  @streamlit Python</a><br/>Mar 15, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=cHjlperESbg">How to Build a CHAT BOT with CONVERSATIONAL MEMORY in PYTHON &lpar; GPT-3.5-TURBO | LangChain 🦜 &rpar;</a><br/>Mar 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0"><img width="140px" src="https://i.ytimg.com/vi/VVSiI-FFrV0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0">USING  🦜 LANGCHAIN AIs SequentialChain 🔗 : BUILD - @OpenAI  @streamlit Web APP | Python</a><br/>Feb 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso"><img width="140px" src="https://i.ytimg.com/vi/1TnW0Ug_Sso/mqdefault.jpg"></a></td>
