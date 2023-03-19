@@ -57,11 +57,11 @@ Happy coding! 🥳
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Chatbot with ChatGPT API and a Conversational Memory in Python](https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542?source=rss-bf79cad6afa1------2)
 - [Getting started with LangChain  — A powerful tool for working with Large Language Models](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842?source=rss-bf79cad6afa1------2)
 - [How to ‘stream’ output in ChatGPT style while using openAI Completion method](https://medium.com/@avra42/how-to-stream-output-in-chatgpt-style-while-using-openai-completion-method-b90331c15e85?source=rss-bf79cad6afa1------2)
 - [Automate GitHub Readme.md file to Streamlit web App](https://medium.com/@avra42/automate-github-readme-md-file-to-streamlit-web-app-348eead2eff8?source=rss-bf79cad6afa1------2)
 - [Is ChatGPT PRO Worth the $42 Monthly Price Tag?](https://medium.com/@avra42/is-chatgpt-pro-worth-the-42-monthly-price-tag-68214c64c211?source=rss-bf79cad6afa1------2)
-- [Tweet like a pro: ChatGPT3 generated Web App uses openAI GPT-3 to create personalized tweets](https://medium.com/@avra42/tweet-like-a-pro-chatgpt3-generated-web-app-uses-openai-gpt-3-to-create-personalized-tweets-38aac8737c4?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 Happy reading! 🥳
