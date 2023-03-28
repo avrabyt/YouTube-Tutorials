@@ -10,20 +10,23 @@
 5. [Bioinformatics with Python](https://github.com/avrabyt/YouTube-Tutorials/tree/main/Bioinformatics%20with%20Python)
 6. [openAI / chatGPT Web Apps](https://github.com/avrabyt/Holiday-coding-session/tree/5af12fbdc474b07f70397390e5040096b92814d2)
 
+------
+**On-going project** : Build real-world web apps by leveraging the consortium of : [Open AI](https://openai.com/) |
+[LangChain](https://langchain.readthedocs.io/en/latest/index.html) | 
+[Streamlit](https://streamlit.io/) | 
+[DataButton](https://www.databutton.io/)
 
-  - [ ] More projects will be updated with time...
+Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 
-- [x] Folder-wise playlists 
-- [x] Automated generation of latest updates over YouTube/Medium 
-- [x] Latest Tweets are displayed 
+------
 
-### ⭐ ☕️ Support me while I keep creating these tutorials !  
-<a href="https://www.buymeacoffee.com/AvraCodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<a href='https://ko-fi.com/avrabyt' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+**⭐  Support me while I keep creating these tutorials** ☕️
+
+<a href="https://www.buymeacoffee.com/AvraCodes" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" ></a>
+<a href='https://ko-fi.com/avrabyt' target='_blank'><img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white'> </a>
+<a href='https://www.patreon.com/user?u=82100262'><img src='https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white'> </a>
 
 -------------
-
-
 
 ### 📺 Latest YouTube Videos
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
@@ -45,14 +48,6 @@
 
 
 
-> **Note**
->
-> Best effort to publish the exact code as in tutorial. Don't hesitate to report bugs/errors in the issue section.🎈
-
-
-
-Happy coding! 🥳
-
 # 📑 [Blog posts](https://medium.com/@avra42)
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
@@ -64,10 +59,12 @@ Happy coding! 🥳
 - [Is ChatGPT PRO Worth the $42 Monthly Price Tag?](https://medium.com/@avra42/is-chatgpt-pro-worth-the-42-monthly-price-tag-68214c64c211?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
-Happy reading! 🥳
 
 # 🐦 [Twitter](https://twitter.com/home)
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Avra_b&layout=wide)](https://twitter.com/Avra_b)
 
-Stay Connected 🤗
-Cheers ! 
+------
+Feel free to report bugs and suggest project via : `avrab dot yt at gmail dot com`
+
+Cheers, 
+Avra
