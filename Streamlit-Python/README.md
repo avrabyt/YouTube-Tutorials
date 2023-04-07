@@ -6,8 +6,6 @@
 <td><a href="https://www.youtube.com/watch?v=cHjlperESbg">How to Build a CHAT BOT with ChatGPT API &lpar;GPT-3.5-TURBO&rpar; having CONVERSATIONAL MEMORY in Python</a><br/>Mar 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0"><img width="140px" src="https://i.ytimg.com/vi/VVSiI-FFrV0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0">USING  🦜 LANGCHAIN AIs SequentialChain 🔗 : BUILD - @OpenAI  @streamlit Web APP | Python</a><br/>Feb 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso"><img width="140px" src="https://i.ytimg.com/vi/1TnW0Ug_Sso/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso">What&#39;s NEW in AI world which we MUST NOT MISS &lpar;ChatGPT Plus, WEB APPS @OpenAI  + @streamlitofficial&rpar;</a><br/>Feb 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">CHAT-GPT-LIKE live STREAM completions AI-ASSISTANT BOT in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
@@ -30,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET |JavaScript Injection |</a><br/>Dec 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AiIptnSahMs"><img width="140px" src="https://i.ytimg.com/vi/AiIptnSahMs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AiIptnSahMs">Streamlit Quick Tip - Convert GitHub README files to Streamlit Web App using Streamlit Markdown</a><br/>Nov 27, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ"><img width="140px" src="https://i.ytimg.com/vi/Ewnp-80bavQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ewnp-80bavQ">Principal Component Analysis &lpar;PCA&rpar;  demo web app |Python|Streamlit| Machine Learning</a><br/>Nov 8, 2022</td></tr></table>
 <!-- STREAMLIT:END -->
