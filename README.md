@@ -38,12 +38,12 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 <td><a href="https://www.youtube.com/watch?v=cHjlperESbg">How to Build a CHAT BOT with ChatGPT API &lpar;GPT-3.5-TURBO&rpar; having CONVERSATIONAL MEMORY in Python</a><br/>Mar 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0"><img width="140px" src="https://i.ytimg.com/vi/VVSiI-FFrV0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0">USING  🦜 LANGCHAIN AIs SequentialChain 🔗 : BUILD - @OpenAI  @streamlit Web APP | Python</a><br/>Feb 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso"><img width="140px" src="https://i.ytimg.com/vi/1TnW0Ug_Sso/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1TnW0Ug_Sso">What&#39;s NEW in AI world which we MUST NOT MISS &lpar;ChatGPT Plus, WEB APPS @OpenAI  + @streamlitofficial&rpar;</a><br/>Feb 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">CHAT-GPT-LIKE live STREAM completions AI-ASSISTANT BOT in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=393BsKexv2A">I built my own SEMANTIC TEXT SEARCH WEB APP using OPENAI EMBEDDINGS + STREAMLIT |  ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA"><img width="140px" src="https://i.ytimg.com/vi/HEKmXqie-nA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">Convert EXCEL SHEETS DATA to ANIMATED PLOTS EASILY in PYTHON using IPYVIZZU</a><br/>Jan 28, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
