@@ -3,7 +3,7 @@
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
 <!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw"><img width="140px" src="https://i.ytimg.com/vi/cvAwOGfeHgw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw">AUTONOMOUS AGENT - BABY 👶 AGI 🤖 with EMAIL AUTOMATION using LangChain and Databutton</a><br/>May 11, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw">Build LANGCHAIN AUTONOMOUS AGENT WEB APP - 👶 BABY AGI 🤖 with EMAIL AUTOMATION using DATABUTTON</a><br/>May 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=daMNGGPJkEE"><img width="140px" src="https://i.ytimg.com/vi/daMNGGPJkEE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=daMNGGPJkEE">Build a PERSONAL CHATBOT with LangChainAI MEMORY with ChatGPT-3.5-Turbo API in PYTHON</a><br/>Apr 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cHjlperESbg"><img width="140px" src="https://i.ytimg.com/vi/cHjlperESbg/mqdefault.jpg"></a></td>
