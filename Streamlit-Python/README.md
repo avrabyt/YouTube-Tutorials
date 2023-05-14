@@ -2,8 +2,10 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw"><img width="140px" src="https://i.ytimg.com/vi/cvAwOGfeHgw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw">Build LANGCHAIN AUTONOMOUS AGENT WEB APP - 👶 BABY AGI 🤖 with EMAIL AUTOMATION using DATABUTTON</a><br/>May 11, 2023</td></tr></table>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU"><img width="140px" src="https://i.ytimg.com/vi/5zIU6_rdJCU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU">LANGCHAIN AI- ConstitutionalChainAI + Databutton AI ASSISTANT Web App &lpar; in 13 minutes from scratch&rpar;</a><br/>May 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw"><img width="140px" src="https://i.ytimg.com/vi/cvAwOGfeHgw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw">LANGCHAIN AI AUTONOMOUS AGENT WEB APP - 👶 BABY AGI 🤖 with EMAIL AUTOMATION using DATABUTTON</a><br/>May 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=daMNGGPJkEE"><img width="140px" src="https://i.ytimg.com/vi/daMNGGPJkEE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=daMNGGPJkEE">Build a PERSONAL CHATBOT with LangChainAI MEMORY with ChatGPT-3.5-Turbo API in PYTHON</a><br/>Apr 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cHjlperESbg"><img width="140px" src="https://i.ytimg.com/vi/cHjlperESbg/mqdefault.jpg"></a></td>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0">OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python  @OpenAI​ @streamlitofficial​</a><br/>Dec 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw"><img width="140px" src="https://i.ytimg.com/vi/cVBUOQAlrOw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cVBUOQAlrOw">How to build OpenAI Web Apps in Python | Streamlit | GPT3 text-da-vinci model for Summarizer App</a><br/>Dec 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sOFM334iILs"><img width="140px" src="https://i.ytimg.com/vi/sOFM334iILs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sOFM334iILs">Python Web App using INTERACTIVE AGGRID Table connected to GOOGLE SHEET |JavaScript Injection |</a><br/>Dec 6, 2022</td></tr></table>
 <!-- STREAMLIT:END -->
