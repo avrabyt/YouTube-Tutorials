@@ -52,11 +52,11 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [LangChain Autonomous Agent — Baby AGI , integrated as Web App](https://medium.com/@avra42/langchain-autonomous-agent-baby-agi-integrated-as-web-app-7a826fefad7d?source=rss-bf79cad6afa1------2)
 - [How to Build a Personalized PDF Chat Bot with Conversational Memory](https://medium.com/@avra42/how-to-build-a-personalized-pdf-chat-bot-with-conversational-memory-965280c160f8?source=rss-bf79cad6afa1------2)
 - [Build a Personal Search Engine Web App using Open AI Text Embeddings](https://medium.com/@avra42/build-a-personal-search-engine-web-app-using-open-ai-text-embeddings-d6541f32892d?source=rss-bf79cad6afa1------2)
 - [How to build a Chatbot with ChatGPT API and a Conversational Memory in Python](https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542?source=rss-bf79cad6afa1------2)
-- [Getting started with LangChain  — A powerful tool for working with Large Language Models](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842?source=rss-bf79cad6afa1------2)
-- [How to ‘stream’ output in ChatGPT style while using openAI Completion method](https://medium.com/@avra42/how-to-stream-output-in-chatgpt-style-while-using-openai-completion-method-b90331c15e85?source=rss-bf79cad6afa1------2)
+- [Getting started with LangChain  — A powerful tool for working with Large Language Models](https://medium.com/databutton/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
