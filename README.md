@@ -34,7 +34,9 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k"><img width="140px" src="https://i.ytimg.com/vi/mL-PLwNuB-k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM"><img width="140px" src="https://i.ytimg.com/vi/Mp7zJe4TIdM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM">Build CHAT BOT for ONLINE RESOURCES using EMBEDCHAIN + STREAMLIT CHAT ELEMENTS + DATABUTTON</a><br/>Jul 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k"><img width="140px" src="https://i.ytimg.com/vi/mL-PLwNuB-k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k">MULTILINGUAL CHATBOT 🤖  USING  @CohereAI  embedding models, @databutton  and @LangChain</a><br/>Jun 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU"><img width="140px" src="https://i.ytimg.com/vi/5zIU6_rdJCU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU">LANGCHAIN AI- ConstitutionalChainAI + Databutton AI ASSISTANT Web App &lpar; in 13 minutes from scratch&rpar;</a><br/>May 13, 2023</td></tr></table>
@@ -42,8 +44,6 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 <td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw">LANGCHAIN AI AUTONOMOUS AGENT WEB APP - 👶 BABY AGI 🤖 with EMAIL AUTOMATION using DATABUTTON</a><br/>May 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=daMNGGPJkEE"><img width="140px" src="https://i.ytimg.com/vi/daMNGGPJkEE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=daMNGGPJkEE">Build a PERSONAL CHATBOT with LangChainAI MEMORY with ChatGPT-3.5-Turbo API in PYTHON</a><br/>Apr 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cHjlperESbg"><img width="140px" src="https://i.ytimg.com/vi/cHjlperESbg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cHjlperESbg">How to Build a CHAT BOT with ChatGPT API &lpar;GPT-3.5-TURBO&rpar; having CONVERSATIONAL MEMORY in Python</a><br/>Mar 15, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
