@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k"><img width="140px" src="https://i.ytimg.com/vi/mL-PLwNuB-k/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM"><img width="140px" src="https://i.ytimg.com/vi/Mp7zJe4TIdM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM">Build CHAT BOT for ONLINE RESOURCES using EMBEDCHAIN + STREAMLIT CHAT ELEMENTS + DATABUTTON</a><br/>Jul 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k"><img width="140px" src="https://i.ytimg.com/vi/mL-PLwNuB-k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k">MULTILINGUAL CHATBOT 🤖  USING  @CohereAI  embedding models, @databutton  and @LangChain</a><br/>Jun 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU"><img width="140px" src="https://i.ytimg.com/vi/5zIU6_rdJCU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU">LANGCHAIN AI- ConstitutionalChainAI + Databutton AI ASSISTANT Web App &lpar; in 13 minutes from scratch&rpar;</a><br/>May 13, 2023</td></tr></table>
@@ -28,6 +30,4 @@
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">I asked  ChatGPT to buid this Data Science Web App from scratch in PYTHON</a><br/>Dec 29, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0"><img width="140px" src="https://i.ytimg.com/vi/BHwVRI9N8B0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BHwVRI9N8B0">OpenAI GPT-3 CHAT BOT 🤖 within Streamlit Python Web app 🚀| Python  @OpenAI​ @streamlitofficial​</a><br/>Dec 24, 2022</td></tr></table>
 <!-- STREAMLIT:END -->
