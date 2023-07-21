@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM"><img width="140px" src="https://i.ytimg.com/vi/Mp7zJe4TIdM/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM"><img width="140px" src="https://i.ytimg.com/vi/bE9sf9vGsrM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM">MONITOR &lpar;TOKEN USAGE, LATENCY, BUGS etc&rpar; of  @LangChain powered CHATBOTS USING LANGSMITH ⚒️  🦜</a><br/>Jul 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM"><img width="140px" src="https://i.ytimg.com/vi/Mp7zJe4TIdM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM">Build CHAT BOT for ONLINE RESOURCES using EMBEDCHAIN + STREAMLIT CHAT ELEMENTS + DATABUTTON</a><br/>Jul 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k"><img width="140px" src="https://i.ytimg.com/vi/mL-PLwNuB-k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k">MULTILINGUAL CHATBOT 🤖  USING  @CohereAI  embedding models, @databutton  and @LangChain</a><br/>Jun 27, 2023</td></tr></table>
@@ -28,6 +30,4 @@
 <td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ"><img width="140px" src="https://i.ytimg.com/vi/wzpl_txHtUQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wzpl_txHtUQ">I asked  ChatGPT to buid this Data Science Web App from scratch in PYTHON</a><br/>Dec 29, 2022</td></tr></table>
 <!-- STREAMLIT:END -->
