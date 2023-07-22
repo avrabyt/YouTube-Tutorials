@@ -52,11 +52,11 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with LangSmith- Integrating LangSmith with Web Applications &amp; Chatbots](https://medium.com/@avra42/getting-started-with-langsmith-integrating-langsmith-with-web-applications-chatbots-cf0268f3eafb?source=rss-bf79cad6afa1------2)
 - [Multilingual Chat Bot for Personal Documents — using Cohere&#39;s Multilingual Models &amp; LangChain](https://medium.com/databutton/multilingual-chat-bot-for-personal-documents-using-coheres-multilingual-models-langchain-2b4e1c8cdab?source=rss-bf79cad6afa1------2)
 - [LangChain Autonomous Agent — Baby AGI , integrated as Web App](https://medium.com/@avra42/langchain-autonomous-agent-baby-agi-integrated-as-web-app-7a826fefad7d?source=rss-bf79cad6afa1------2)
 - [How to Build a Personalized PDF Chat Bot with Conversational Memory](https://medium.com/@avra42/how-to-build-a-personalized-pdf-chat-bot-with-conversational-memory-965280c160f8?source=rss-bf79cad6afa1------2)
 - [Build a Personal Search Engine Web App using Open AI Text Embeddings](https://medium.com/@avra42/build-a-personal-search-engine-web-app-using-open-ai-text-embeddings-d6541f32892d?source=rss-bf79cad6afa1------2)
-- [How to build a Chatbot with ChatGPT API and a Conversational Memory in Python](https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
