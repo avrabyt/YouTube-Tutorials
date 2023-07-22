@@ -3,7 +3,7 @@
 [![Python Automation Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/python-automation.yml)
 
 <!-- PythonAutomation:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM"><img width="140px" src="https://i.ytimg.com/vi/Mp7zJe4TIdM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM">Build CHAT BOT for ONLINE RESOURCES using EMBEDCHAIN + STREAMLIT CHAT ELEMENTS + DATABUTTON</a><br/>Jul 18, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM">🤖CHAT with ANY ONLINE RESOURCES using EMBEDCHAIN - a LangChain wrapper, in few lines of code !</a><br/>Jul 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA"><img width="140px" src="https://i.ytimg.com/vi/HEKmXqie-nA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HEKmXqie-nA">Convert EXCEL SHEETS DATA to ANIMATED PLOTS EASILY in PYTHON using IPYVIZZU</a><br/>Jan 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
