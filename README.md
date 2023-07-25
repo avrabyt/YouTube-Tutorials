@@ -58,13 +58,3 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 - [How to Build a Personalized PDF Chat Bot with Conversational Memory](https://medium.com/@avra42/how-to-build-a-personalized-pdf-chat-bot-with-conversational-memory-965280c160f8?source=rss-bf79cad6afa1------2)
 - [Build a Personal Search Engine Web App using Open AI Text Embeddings](https://medium.com/@avra42/build-a-personal-search-engine-web-app-using-open-ai-text-embeddings-d6541f32892d?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-# 🐦 [Twitter](https://twitter.com/home)
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Avra_b&layout=wide)](https://twitter.com/Avra_b)
-
-------
-Feel free to report bugs and suggest project via : `avrab dot yt at gmail dot com`
-
-Cheers, 
-Avra
