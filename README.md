@@ -58,7 +58,3 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 - [LangChain Autonomous Agent — Baby AGI , integrated as Web App](https://medium.com/@avra42/langchain-autonomous-agent-baby-agi-integrated-as-web-app-7a826fefad7d?source=rss-bf79cad6afa1------2)
 - [How to Build a Personalized PDF Chat Bot with Conversational Memory](https://medium.com/@avra42/how-to-build-a-personalized-pdf-chat-bot-with-conversational-memory-965280c160f8?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
-
-<a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw">Tweets by Avra_b</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
-<a href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @Avra_b</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
