@@ -48,7 +48,7 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 
 
 
-# 📑 [Blog posts](https://medium.com/@avra42)
+### 📑 Latest Blog posts
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
