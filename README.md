@@ -59,7 +59,7 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Embedchain — A powerful LangChain Python wrapper to build Chat Bots even faster!](https://medium.com/@avra42/using-embedchain-a-powerful-langchain-python-wrapper-to-build-chat-bots-even-faster-35c12994a360?source=rss-bf79cad6afa1------2)
+- [Using Embedchain — A powerful LangChain Python wrapper to build Chat Bots even faster!](https://ai.plainenglish.io/using-embedchain-a-powerful-langchain-python-wrapper-to-build-chat-bots-even-faster-35c12994a360?source=rss-bf79cad6afa1------2)
 - [Getting started with LangSmith- Integrating LangSmith with Web Applications &amp; Chatbots](https://medium.com/@avra42/getting-started-with-langsmith-integrating-langsmith-with-web-applications-chatbots-cf0268f3eafb?source=rss-bf79cad6afa1------2)
 - [Multilingual Chat Bot for Personal Documents — using Cohere&#39;s Multilingual Models &amp; LangChain](https://medium.com/databutton/multilingual-chat-bot-for-personal-documents-using-coheres-multilingual-models-langchain-2b4e1c8cdab?source=rss-bf79cad6afa1------2)
 - [LangChain Autonomous Agent — Baby AGI , integrated as Web App](https://medium.com/@avra42/langchain-autonomous-agent-baby-agi-integrated-as-web-app-7a826fefad7d?source=rss-bf79cad6afa1------2)
