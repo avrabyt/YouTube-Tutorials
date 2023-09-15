@@ -59,7 +59,7 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-powered Digital Marketing Assistant](https://towardsdatascience.com/building-an-ai-powered-digital-marketing-assistant-acfd302554f0?source=rss-bf79cad6afa1------2)
+- [Building an AI-powered Digital Marketing Assistant](https://medium.com/@avra42/building-an-ai-powered-digital-marketing-assistant-acfd302554f0?source=rss-bf79cad6afa1------2)
 - [Using Embedchain — A powerful LangChain Python wrapper to build Chat Bots even faster!](https://ai.plainenglish.io/using-embedchain-a-powerful-langchain-python-wrapper-to-build-chat-bots-even-faster-35c12994a360?source=rss-bf79cad6afa1------2)
 - [LangChain’s New Tool: LangSmith for ChatBots and Web Apps](https://ai.plainenglish.io/getting-started-with-langsmith-integrating-langsmith-with-web-applications-chatbots-cf0268f3eafb?source=rss-bf79cad6afa1------2)
 - [Multilingual Chat Bot for Personal Documents — using Cohere&#39;s Multilingual Models &amp; LangChain](https://medium.com/databutton/multilingual-chat-bot-for-personal-documents-using-coheres-multilingual-models-langchain-2b4e1c8cdab?source=rss-bf79cad6afa1------2)
