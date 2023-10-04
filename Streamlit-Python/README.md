@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM"><img width="140px" src="https://i.ytimg.com/vi/bE9sf9vGsrM/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sWVfGIiWmaQ"><img width="140px" src="https://i.ytimg.com/vi/sWVfGIiWmaQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sWVfGIiWmaQ">How to Stream LangChainAI Abstractions and Responses using Streamlit Callback Handler and Chat UI</a><br/>Oct 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM"><img width="140px" src="https://i.ytimg.com/vi/bE9sf9vGsrM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM">🦜🛠️ Getting started with LangSmith - Integrating with LANGCHAIN powered Web Applications &amp; Chatbots</a><br/>Jul 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM"><img width="140px" src="https://i.ytimg.com/vi/Mp7zJe4TIdM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM">🤖CHAT with ANY ONLINE RESOURCES using EMBEDCHAIN - a LangChain wrapper, in few lines of code !</a><br/>Jul 18, 2023</td></tr></table>
@@ -28,6 +30,4 @@
 <td><a href="https://www.youtube.com/watch?v=8eevfJ-qk7U">ChatGPT helped me to build this AI TWEET Generator Web APP using OpenAI + Streamlit &lpar; Python &rpar;</a><br/>Jan 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak"><img width="140px" src="https://i.ytimg.com/vi/3Ax3S8g2bak/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3Ax3S8g2bak">Streamlit AgGrid Extras - Display Image within the Table | JavaScript Injection | Python</a><br/>Jan 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c"><img width="140px" src="https://i.ytimg.com/vi/LgdMhDqj77c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LgdMhDqj77c">Using chatGPT to build a Machine Learning Web App in Python!</a><br/>Jan 3, 2023</td></tr></table>
 <!-- STREAMLIT:END -->
