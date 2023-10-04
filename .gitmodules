@@ -19,3 +19,6 @@
 [submodule "OpenAI-Streamlit-YouTube"]
 	path = OpenAI-Streamlit-YouTube
 	url = https://github.com/avrabyt/OpenAI-Streamlit-YouTube.git
+[submodule "LangChain-Web-Apps"]
+	path = LangChain-Web-Apps
+	url = https://github.com/avrabyt/LangChain-Web-Apps.git
