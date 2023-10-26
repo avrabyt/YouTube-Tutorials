@@ -22,3 +22,6 @@
 [submodule "LangChain-Web-Apps"]
 	path = LangChain-Web-Apps
 	url = https://github.com/avrabyt/LangChain-Web-Apps.git
+[submodule "RAG-Chatbot"]
+	path = RAG-Chatbot
+	url = https://github.com/avrabyt/RAG-Chatbot.git
