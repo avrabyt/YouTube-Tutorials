@@ -2,7 +2,9 @@
 
 [![Streamlit Playlist](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Streamlit-workflow.yml)
 
-<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rnXK2rMlqGo"><img width="140px" src="https://i.ytimg.com/vi/rnXK2rMlqGo/mqdefault.jpg"></a></td>
+<!-- STREAMLIT:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZPe8isJWikQ"><img width="140px" src="https://i.ytimg.com/vi/ZPe8isJWikQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZPe8isJWikQ">Generate Apps from Sketches or Screenshots with OpenAI GPT-4 Vision API &lpar;6 mins quick demo&rpar;</a><br/>Nov 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rnXK2rMlqGo"><img width="140px" src="https://i.ytimg.com/vi/rnXK2rMlqGo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rnXK2rMlqGo">How to Build App with OpenAI&#39;s New GPT-4 TURBO VISION API &lpar;gpt vision&rpar;</a><br/>Nov 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0"><img width="140px" src="https://i.ytimg.com/vi/Yh1GEWqgkt0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0">Build your own RAG &lpar;retrieval augmented generation&rpar; AI Chatbot using Python | Simple walkthrough</a><br/>Nov 3, 2023</td></tr></table>
@@ -28,6 +30,4 @@
 <td><a href="https://www.youtube.com/watch?v=VVSiI-FFrV0">USING  🦜 LANGCHAIN AIs SequentialChain 🔗 : BUILD - @OpenAI  @streamlit Web APP | Python</a><br/>Feb 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8"><img width="140px" src="https://i.ytimg.com/vi/CqqELxWGUy8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CqqELxWGUy8">CHAT-GPT-LIKE live STREAM completions AI-ASSISTANT BOT in PYTHON?  @OpenAI +Streamlit</a><br/>Feb 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=393BsKexv2A"><img width="140px" src="https://i.ytimg.com/vi/393BsKexv2A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=393BsKexv2A">I built my own SEMANTIC TEXT SEARCH WEB APP using OPENAI EMBEDDINGS + STREAMLIT |  ada-002 engine</a><br/>Feb 6, 2023</td></tr></table>
 <!-- STREAMLIT:END -->
