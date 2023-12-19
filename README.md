@@ -41,7 +41,9 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4"><img width="140px" src="https://i.ytimg.com/vi/BCDCSNWCts4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YCNpMGV4dWE"><img width="140px" src="https://i.ytimg.com/vi/YCNpMGV4dWE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YCNpMGV4dWE">AI Agents at work - Building No Code AI Apps with @databutton</a><br/>Dec 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4"><img width="140px" src="https://i.ytimg.com/vi/BCDCSNWCts4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4">REACT + PYTHON AI Apps built by AI AGENTS 🤯 &lpar; NO CODE! &rpar;</a><br/>Dec 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GAZmtAByzjY"><img width="140px" src="https://i.ytimg.com/vi/GAZmtAByzjY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GAZmtAByzjY">Building Web Apps with GPT-4 Vision &amp; Text to Speech &lpar;TTS&rpar; API - Transform Videos into AI Voiceovers</a><br/>Nov 30, 2023</td></tr></table>
@@ -49,8 +51,6 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 <td><a href="https://www.youtube.com/watch?v=ZPe8isJWikQ">Generate Apps from Sketches or Screenshots with OpenAI GPT-4 Vision API &lpar;6 mins quick demo&rpar;</a><br/>Nov 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rnXK2rMlqGo"><img width="140px" src="https://i.ytimg.com/vi/rnXK2rMlqGo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rnXK2rMlqGo">How to Build App with OpenAI&#39;s New GPT-4 TURBO VISION API &lpar;gpt vision&rpar;</a><br/>Nov 15, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0"><img width="140px" src="https://i.ytimg.com/vi/Yh1GEWqgkt0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0">Build your own RAG &lpar;retrieval augmented generation&rpar; AI Chatbot using Python | Simple walkthrough</a><br/>Nov 3, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
