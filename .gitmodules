@@ -25,3 +25,6 @@
 [submodule "RAG-Chatbot"]
 	path = RAG-Chatbot
 	url = https://github.com/avrabyt/RAG-Chatbot.git
+[submodule "GPT4-turbo-with-vision-demo"]
+	path = GPT4-turbo-with-vision-demo
+	url = https://github.com/avrabyt/GPT4-turbo-with-vision-demo.git
