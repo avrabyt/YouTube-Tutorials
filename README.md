@@ -41,7 +41,9 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rwJNtOQVaRY"><img width="140px" src="https://i.ytimg.com/vi/rwJNtOQVaRY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RmmaDBe78Dc"><img width="140px" src="https://i.ytimg.com/vi/RmmaDBe78Dc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RmmaDBe78Dc">Building ⚡️Lightning-Fast AI Chatbots with Groq&#39;s LPU &lpar;running Mixtral-8x7B LLM&rpar; &amp; Databutton</a><br/>Mar 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rwJNtOQVaRY"><img width="140px" src="https://i.ytimg.com/vi/rwJNtOQVaRY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rwJNtOQVaRY">How to Build a Full-Stack RAG Powered Smart Web Searching AI Tool using Tavily, Langchain &amp; Mistral</a><br/>Mar 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_uBq68uvQ6g"><img width="140px" src="https://i.ytimg.com/vi/_uBq68uvQ6g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_uBq68uvQ6g">Building Next-Gen Apps with AI Agents @databutton  | Part 3</a><br/>Jan 30, 2024</td></tr></table>
@@ -49,8 +51,6 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 <td><a href="https://www.youtube.com/watch?v=YCNpMGV4dWE">AI Agents at work - Building No Code AI Apps with @databutton | Part 2</a><br/>Dec 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4"><img width="140px" src="https://i.ytimg.com/vi/BCDCSNWCts4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4">REACT + PYTHON AI Apps built by AI AGENTS 🤯 &lpar; NO CODE! &rpar; | Part 1</a><br/>Dec 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GAZmtAByzjY"><img width="140px" src="https://i.ytimg.com/vi/GAZmtAByzjY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GAZmtAByzjY">Building Web Apps with GPT-4 Vision &amp; Text to Speech &lpar;TTS&rpar; API - Transform Videos into AI Voiceovers</a><br/>Nov 30, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
