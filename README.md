@@ -48,7 +48,7 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 <table><tr><td><a href="https://www.youtube.com/watch?v=rwJNtOQVaRY"><img width="140px" src="https://i.ytimg.com/vi/rwJNtOQVaRY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rwJNtOQVaRY">How to Build a Full-Stack RAG Powered Smart Web Searching AI Tool using Tavily, Langchain &amp; Mistral</a><br/>Mar 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_uBq68uvQ6g"><img width="140px" src="https://i.ytimg.com/vi/_uBq68uvQ6g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_uBq68uvQ6g">Building Next-Gen Apps with AI Agents @databutton  | Part 3</a><br/>Jan 30, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=_uBq68uvQ6g">Databutton , Your Full Stack AI App Builder &lpar; Part 3 &rpar;</a><br/>Jan 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YCNpMGV4dWE"><img width="140px" src="https://i.ytimg.com/vi/YCNpMGV4dWE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YCNpMGV4dWE">AI Agents at work - Building No Code AI Apps with @databutton | Part 2</a><br/>Dec 18, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
