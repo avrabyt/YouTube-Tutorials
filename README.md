@@ -59,9 +59,9 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Personalized AI Chatbots Without Coding, Just by Prompting](https://medium.com/@avra42/building-personalized-ai-chatbots-without-coding-just-by-prompting-c3ba2595e47f?source=rss-bf79cad6afa1------2)
 - [AI Chatbot with your Knowledge base](https://medium.com/databutton/ai-chatbot-with-your-knowledge-base-0390c8c6e5d8?source=rss-bf79cad6afa1------2)
 - [Prototyping Ideas to Full Stack GenAI Web Apps for PoCs and Internal Tools](https://medium.com/databutton/prototyping-ideas-to-full-stack-genai-web-apps-for-pocs-and-internal-tools-1743bf260916?source=rss-bf79cad6afa1------2)
 - [Building Next-Gen Apps with AI Agents](https://medium.com/databutton/building-next-gen-apps-with-ai-agents-f18551c71218?source=rss-bf79cad6afa1------2)
 - [Why your next AI product needs RAG implemented in it](https://medium.com/databutton/why-your-next-ai-product-needs-rag-implemented-in-it-9ee22f9770c8?source=rss-bf79cad6afa1------2)
-- [AI-Powered Data Visualization](https://medium.com/databutton/ai-powered-data-visualization-134e89d82d99?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
