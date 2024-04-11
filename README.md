@@ -14,27 +14,6 @@
 6. [openAI / chatGPT Web Apps](https://github.com/avrabyt/Holiday-coding-session/tree/5af12fbdc474b07f70397390e5040096b92814d2)
 
 
-
-------
-**On-going project** : Build real-world web apps by leveraging the consortium of : [Open AI](https://openai.com/) |
-[LangChain](https://langchain.readthedocs.io/en/latest/index.html) | 
-[Streamlit](https://streamlit.io/) | 
-[DataButton](https://www.databutton.io/)
-
-Live App demo - [here](https://next.databutton.com/v/lgzxq112)
-
-------
-
-**⭐  Support me while I keep creating these tutorials** ☕️
-
-<a href="https://www.buymeacoffee.com/AvraCodes" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" ></a>
-<a href='https://ko-fi.com/avrabyt' target='_blank'><img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white'> </a>
-<a href='https://www.patreon.com/user?u=82100262'><img src='https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white'> </a>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Avra_b)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@avra42)
-
--------------
-
 ### 📺 Latest YouTube Videos
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
@@ -65,3 +44,11 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 - [AI Chatbot with your Knowledge base](https://medium.com/databutton/ai-chatbot-with-your-knowledge-base-0390c8c6e5d8?source=rss-bf79cad6afa1------2)
 - [Prototyping Ideas to Full Stack GenAI Web Apps for PoCs and Internal Tools](https://medium.com/databutton/prototyping-ideas-to-full-stack-genai-web-apps-for-pocs-and-internal-tools-1743bf260916?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
+-----
+**Weekly Newsletter** : https://weekly-aistacks.beehiiv.com/subscribe
+
+<a href="https://www.buymeacoffee.com/AvraCodes" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" ></a>
+<a href='https://ko-fi.com/avrabyt' target='_blank'><img src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white'> </a>
+<a href='https://www.patreon.com/user?u=82100262'><img src='https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white'> </a>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Avra_b)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@avra42)
