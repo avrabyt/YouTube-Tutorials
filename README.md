@@ -39,7 +39,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Weekly AI Stacks Newsletter](https://medium.com/@avra42/the-weekly-ai-stacks-newsletter-ef4953ce8697?source=rss-bf79cad6afa1------2)
-- [Is Databutton the New Full-Stack AI Alternative to Devin for App Development?](https://medium.com/databutton/is-databutton-the-new-full-stack-ai-alternative-to-devin-for-app-development-888a8e33a54a?source=rss-bf79cad6afa1------2)
+- [Is Databutton the New Full-Stack AI Alternative to Devin for App Development?](https://medium.com/@avra42/is-databutton-the-new-full-stack-ai-alternative-to-devin-for-app-development-888a8e33a54a?source=rss-bf79cad6afa1------2)
 - [Building Personalized AI Chatbots Without Coding, Just by Prompting](https://medium.com/databutton/building-personalized-ai-chatbots-without-coding-just-by-prompting-c3ba2595e47f?source=rss-bf79cad6afa1------2)
 - [AI Chatbot with your Knowledge base](https://medium.com/databutton/ai-chatbot-with-your-knowledge-base-0390c8c6e5d8?source=rss-bf79cad6afa1------2)
 - [Prototyping Ideas to Full Stack GenAI Web Apps for PoCs and Internal Tools](https://medium.com/databutton/prototyping-ideas-to-full-stack-genai-web-apps-for-pocs-and-internal-tools-1743bf260916?source=rss-bf79cad6afa1------2)
