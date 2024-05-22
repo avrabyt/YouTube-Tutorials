@@ -38,11 +38,11 @@
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a SaaS-ready, RAG-powered chatbot with the GPT-4o &lpar;Omni&rpar; model](https://medium.com/@avra42/building-a-saas-ready-rag-powered-chatbot-with-the-gpt-4o-omni-model-00931fb8a22b?source=rss-bf79cad6afa1------2)
 - [AI agents writing Python code &lpar;FastAPI Routers&rpar; for Full-Stack App Development](https://medium.com/databutton/ai-agents-writing-python-code-fastapi-routers-for-full-stack-app-development-76379ee1fc23?source=rss-bf79cad6afa1------2)
 - [AI Agent Frameworks for Full Stack App Development &amp; Software Engineering](https://medium.com/databutton/ai-agent-frameworks-for-full-stack-app-development-and-software-engineering-9cad8cd82678?source=rss-bf79cad6afa1------2)
 - [Weekly AI Stacks Newsletter](https://medium.com/@avra42/the-weekly-ai-stacks-newsletter-ef4953ce8697?source=rss-bf79cad6afa1------2)
 - [Is Databutton the New Full-Stack AI Alternative to Devin for App Development?](https://medium.com/databutton/is-databutton-the-new-full-stack-ai-alternative-to-devin-for-app-development-888a8e33a54a?source=rss-bf79cad6afa1------2)
-- [Building Personalized AI Chatbots Without Coding, Just by Prompting](https://medium.com/databutton/building-personalized-ai-chatbots-without-coding-just-by-prompting-c3ba2595e47f?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 -----
 **Weekly Newsletter** : https://weekly-aistacks.beehiiv.com/subscribe
