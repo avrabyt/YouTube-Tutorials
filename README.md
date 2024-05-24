@@ -21,7 +21,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc"><img width="140px" src="https://i.ytimg.com/vi/HRD-zG-Dwwc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc">How to Build a Micro SaaS from Scratch - Idea to Launch &lpar;Part 1&rpar;</a><br/>May 22, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc">How to BUILD a Micro SaaS from Scratch in 2024 using AI - Idea to Launch &lpar;Part 1&rpar;</a><br/>May 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zT3pa6zVyD4"><img width="140px" src="https://i.ytimg.com/vi/zT3pa6zVyD4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zT3pa6zVyD4">🤯 Prompt to UI with #gpt4o  and Databutton AI⚡️ #aiagents #aiapps  #chatgpt #appbuilding</a><br/>May 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fLALBVuHKL8"><img width="140px" src="https://i.ytimg.com/vi/fLALBVuHKL8/mqdefault.jpg"></a></td>
