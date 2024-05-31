@@ -20,7 +20,9 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc"><img width="140px" src="https://i.ytimg.com/vi/HRD-zG-Dwwc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ"><img width="140px" src="https://i.ytimg.com/vi/g-6nihTmeeQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ">How to BUILD a Micro SaaS from Scratch in 2024 using AI - Idea to Launch &lpar;Part 2&rpar;</a><br/>May 30, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc"><img width="140px" src="https://i.ytimg.com/vi/HRD-zG-Dwwc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc">How to BUILD a Micro SaaS from Scratch in 2024 using AI - Idea to Launch &lpar;Part 1&rpar;</a><br/>May 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zT3pa6zVyD4"><img width="140px" src="https://i.ytimg.com/vi/zT3pa6zVyD4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zT3pa6zVyD4">🤯 Prompt to UI with #gpt4o  and Databutton AI⚡️ #aiagents #aiapps  #chatgpt #appbuilding</a><br/>May 16, 2024</td></tr></table>
@@ -28,8 +30,6 @@
 <td><a href="https://www.youtube.com/watch?v=fLALBVuHKL8">Is Databutton the DevinAI for Full Stack AI App Building? &lpar; Quick Demo - Part 1&rpar;</a><br/>Apr 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gD2rVaAgUEM"><img width="140px" src="https://i.ytimg.com/vi/gD2rVaAgUEM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gD2rVaAgUEM">How to Connect Python Backend with React Frontend in Databutton #fullstacksoftwareengineering#aiapps</a><br/>Mar 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=um8K4utubZM"><img width="140px" src="https://i.ytimg.com/vi/um8K4utubZM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=um8K4utubZM">Pro Tip: Databutton UI Prototyping – From Sketch to Screen Fast! #fullstacksoftwareengineering</a><br/>Mar 23, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
