@@ -21,7 +21,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ"><img width="140px" src="https://i.ytimg.com/vi/g-6nihTmeeQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ">How to BUILD a Micro SaaS from Scratch in 2024 using AI - Idea to Launch &lpar;Part 2&rpar;</a><br/>May 30, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ">Building Micro SaaS using AI - Part 2 &lpar;Adding Firebase Authentication , Polishing UI &rpar;</a><br/>May 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc"><img width="140px" src="https://i.ytimg.com/vi/HRD-zG-Dwwc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc">How to BUILD a Micro SaaS from Scratch in 2024 using AI - Idea to Launch &lpar;Part 1&rpar;</a><br/>May 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zT3pa6zVyD4"><img width="140px" src="https://i.ytimg.com/vi/zT3pa6zVyD4/mqdefault.jpg"></a></td>
