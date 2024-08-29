@@ -20,7 +20,9 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WfJeBvIkSoU"><img width="140px" src="https://i.ytimg.com/vi/WfJeBvIkSoU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NOuOZtgLx24"><img width="140px" src="https://i.ytimg.com/vi/NOuOZtgLx24/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NOuOZtgLx24">Building Full Stack Apps with AI ⚡️🚀</a><br/>Aug 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WfJeBvIkSoU"><img width="140px" src="https://i.ytimg.com/vi/WfJeBvIkSoU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WfJeBvIkSoU">Learnings from Selling an AI SaaS product for $250K within a year! 💰 #startup #saas #microsaas #ai</a><br/>Jul 31, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RHk3RpQamX8"><img width="140px" src="https://i.ytimg.com/vi/RHk3RpQamX8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RHk3RpQamX8">From Idea to $250K Exit with AI SaaS : ChatNode&#39;s Success &amp; Making RAG Work in Production🚀</a><br/>Jul 29, 2024</td></tr></table>
@@ -28,8 +30,6 @@
 <td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ">Building Micro SaaS using AI - Part 2 &lpar;Adding Firebase Authentication , Polishing UI &rpar;</a><br/>May 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc"><img width="140px" src="https://i.ytimg.com/vi/HRD-zG-Dwwc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HRD-zG-Dwwc">How to BUILD a Micro SaaS from Scratch in 2024 using AI - Idea to Launch &lpar;Part 1&rpar;</a><br/>May 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zT3pa6zVyD4"><img width="140px" src="https://i.ytimg.com/vi/zT3pa6zVyD4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zT3pa6zVyD4">🤯 Prompt to UI with #gpt4o  and Databutton AI⚡️ #aiagents #aiapps  #chatgpt #appbuilding</a><br/>May 16, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
