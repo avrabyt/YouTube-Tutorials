@@ -21,7 +21,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BViiyl5D8J0"><img width="140px" src="https://i.ytimg.com/vi/BViiyl5D8J0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BViiyl5D8J0">How I Built an AI Recruiting App MVP Without Coding | Databutton Tutorial| OpenI Audio to Text Model</a><br/>Sep 30, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=BViiyl5D8J0">AI Built THIS AI RECRUITING App MVP</a><br/>Sep 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Id5MsznWGwM"><img width="140px" src="https://i.ytimg.com/vi/Id5MsznWGwM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Id5MsznWGwM">Build Full Stack Apps with AI #3 - AI Powered Search Engine</a><br/>Sep 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5ZZ9dJbCURQ"><img width="140px" src="https://i.ytimg.com/vi/5ZZ9dJbCURQ/mqdefault.jpg"></a></td>
