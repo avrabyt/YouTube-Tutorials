@@ -38,7 +38,7 @@
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
-- [I was thinking about an AI SaaS idea and came up with this.](https://medium.com/@avra42/i-was-thinking-about-an-ai-saas-idea-and-came-up-with-this-0ba5e44a2ce9?source=rss-bf79cad6afa1------2)
+- [I was thinking about an AI SaaS idea and came up with this.](https://medium.com/databutton/i-was-thinking-about-an-ai-saas-idea-and-came-up-with-this-0ba5e44a2ce9?source=rss-bf79cad6afa1------2)
 - [What AI Tool I Would Pick While Building My Next SaaS App](https://medium.com/@avra42/what-ai-tool-i-would-pick-while-building-my-next-saas-app-ab5493863401?source=rss-bf79cad6afa1------2)
 - [9 Tips I Learned from an AI Micro SaaS Founder Who Sold it for Six Figures](https://medium.com/databutton/9-tips-i-learned-from-an-ai-micro-saas-founder-who-sold-it-for-six-figures-f951b85c7198?source=rss-bf79cad6afa1------2)
 - [Building an AI Micro SaaS Product in Public— Learnings and Updates](https://medium.com/@avra42/building-an-ai-micro-saas-product-in-public-learnings-and-updates-80284ed24344?source=rss-bf79cad6afa1------2)
