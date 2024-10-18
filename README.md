@@ -20,7 +20,9 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MqGPvFH8t5s"><img width="140px" src="https://i.ytimg.com/vi/MqGPvFH8t5s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wgmCjrMFoyc"><img width="140px" src="https://i.ytimg.com/vi/wgmCjrMFoyc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wgmCjrMFoyc">How to Build AI Apps with Multi-Agent Systems Using OpenAI Swarm Library 🐝</a><br/>Oct 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MqGPvFH8t5s"><img width="140px" src="https://i.ytimg.com/vi/MqGPvFH8t5s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MqGPvFH8t5s">AI Built THIS Recruiting App for me! #coding #startup #aiappdevelopment #ai #nocodesaas #programming</a><br/>Oct 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BViiyl5D8J0"><img width="140px" src="https://i.ytimg.com/vi/BViiyl5D8J0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BViiyl5D8J0">AI built THIS AI Recruiting APP MVP</a><br/>Sep 30, 2024</td></tr></table>
@@ -28,8 +30,6 @@
 <td><a href="https://www.youtube.com/watch?v=Id5MsznWGwM">Build Full Stack Apps with AI #3 - AI Powered Search Engine</a><br/>Sep 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5ZZ9dJbCURQ"><img width="140px" src="https://i.ytimg.com/vi/5ZZ9dJbCURQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ZZ9dJbCURQ">Build Full Stack Apps with AI #2 - Stock Analysis App</a><br/>Sep 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NOuOZtgLx24"><img width="140px" src="https://i.ytimg.com/vi/NOuOZtgLx24/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NOuOZtgLx24">Build Full Stack Apps with AI #1 - Dashboard App</a><br/>Aug 28, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
