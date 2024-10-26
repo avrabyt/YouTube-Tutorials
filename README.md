@@ -20,16 +20,16 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lrDkojtnF4o"><img width="140px" src="https://i.ytimg.com/vi/lrDkojtnF4o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ"><img width="140px" src="https://i.ytimg.com/vi/HEySHFKMocQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ">Avra Live Stream</a><br/>Oct 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GiAqN402Kgs"><img width="140px" src="https://i.ytimg.com/vi/GiAqN402Kgs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GiAqN402Kgs">Live Stream: Build Multi-Agent AI Systems Apps with Simple Prompts Using Phidata &amp; Databutton</a><br/>Oct 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lrDkojtnF4o"><img width="140px" src="https://i.ytimg.com/vi/lrDkojtnF4o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lrDkojtnF4o">Build Multi-Agent AI Apps in 50 Lines | OpenAI Swarm Tutorial  #coding #ai #aiagents #nocode</a><br/>Oct 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wgmCjrMFoyc"><img width="140px" src="https://i.ytimg.com/vi/wgmCjrMFoyc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wgmCjrMFoyc">🔥 Build Your Chatbots &amp; AI Apps with Multi-Agents in 20 Min &lpar;OpenAI&#39;s Swarm 🐝&rpar;</a><br/>Oct 17, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=wgmCjrMFoyc">How to Build Multi-Agent Systems: AI Apps in 20 Min | OpenAI Swarm Tutorial 🐝</a><br/>Oct 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MqGPvFH8t5s"><img width="140px" src="https://i.ytimg.com/vi/MqGPvFH8t5s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MqGPvFH8t5s">AI Built THIS Recruiting App for me! #coding #startup #aiappdevelopment #ai #nocodesaas #programming</a><br/>Oct 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BViiyl5D8J0"><img width="140px" src="https://i.ytimg.com/vi/BViiyl5D8J0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BViiyl5D8J0">🤖 AI Built THIS Recruiting App in Minutes &lpar; Databutton, No Code App Builder  &rpar;</a><br/>Sep 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Id5MsznWGwM"><img width="140px" src="https://i.ytimg.com/vi/Id5MsznWGwM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Id5MsznWGwM">Build Full Stack Apps with AI #3 - AI Powered Search Engine</a><br/>Sep 5, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
