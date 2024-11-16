@@ -21,7 +21,7 @@
 
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0xWvm1XR0xo"><img width="140px" src="https://i.ytimg.com/vi/0xWvm1XR0xo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0xWvm1XR0xo">Customers asked how Databutton is different than Bolt.new, so we did a livestream</a><br/>Nov 13, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=0xWvm1XR0xo">Customers asked how Databutton is different than Bolt.new, so we did a livestream</a><br/>Nov 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6QGQpvVOyM8"><img width="140px" src="https://i.ytimg.com/vi/6QGQpvVOyM8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6QGQpvVOyM8">AI AGENTS simplified in 60 Seconds  #aiagents #ai #aicode  #aiagent #aiappdevelopment #aicode</a><br/>Nov 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SFhGqmQ6uFk"><img width="140px" src="https://i.ytimg.com/vi/SFhGqmQ6uFk/mqdefault.jpg"></a></td>
