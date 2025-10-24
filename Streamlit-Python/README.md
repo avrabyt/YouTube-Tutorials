@@ -19,7 +19,7 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM"><img width="140px" src="https://i.ytimg.com/vi/Mp7zJe4TIdM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mp7zJe4TIdM">🤖CHAT with ANY ONLINE RESOURCES using EMBEDCHAIN - a LangChain wrapper, in few lines of code !</a><br/>Jul 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k"><img width="140px" src="https://i.ytimg.com/vi/mL-PLwNuB-k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k">MULTILINGUAL CHATBOT 🤖  USING  @CohereAI  embedding models, @databutton  and @LangChain</a><br/>Jun 27, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=mL-PLwNuB-k">MULTILINGUAL CHATBOT 🤖  USING  @CohereAI  embedding models, @riff_aiofficial  and @LangChain</a><br/>Jun 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU"><img width="140px" src="https://i.ytimg.com/vi/5zIU6_rdJCU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5zIU6_rdJCU">LANGCHAIN AI- ConstitutionalChainAI + Databutton AI ASSISTANT Web App &lpar; in 13 minutes from scratch&rpar;</a><br/>May 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cvAwOGfeHgw"><img width="140px" src="https://i.ytimg.com/vi/cvAwOGfeHgw/mqdefault.jpg"></a></td>
