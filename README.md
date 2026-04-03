@@ -38,11 +38,11 @@
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Service Systems.](https://medium.com/@avra42/agentic-service-systems-eb923038b4ce?source=rss-bf79cad6afa1------2)
 - [We generated $100K+ ARR in &lt;45 days. Era of agentic‑native agencies?](https://medium.com/@avra42/we-generated-100k-arr-in-45-days-era-of-agentic-native-agency-57e054ba1631?source=rss-bf79cad6afa1------2)
 - [What 6 months of customer interviews taught me about data tools](https://medium.com/@avra42/what-6-months-of-customer-interviews-taught-me-about-data-tools-6501b04713a7?source=rss-bf79cad6afa1------2)
 - [How to Build Full Stack Agentic Apps](https://medium.com/databutton/how-to-build-full-stack-agentic-apps-d3c64c9bb11b?source=rss-bf79cad6afa1------2)
 - [What I Built: A Multi-Agent AI Chatbot App using Databutton and Swarm](https://medium.com/databutton/what-i-built-a-multi-agent-ai-chatbot-app-using-databutton-and-swarm-c616f5b7ed11?source=rss-bf79cad6afa1------2)
-- [I was thinking about an AI SaaS idea and came up with this.](https://medium.com/databutton/i-was-thinking-about-an-ai-saas-idea-and-came-up-with-this-0ba5e44a2ce9?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 -----
 **Weekly Newsletter** : https://weekly-aistacks.beehiiv.com/subscribe
