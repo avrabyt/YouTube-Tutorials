@@ -20,16 +20,16 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=w4cFhRc3Vr4"><img width="140px" src="https://i.ytimg.com/vi/w4cFhRc3Vr4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/qx03oPcL24w"><img width="140px" src="https://i.ytimg.com/vi/qx03oPcL24w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/qx03oPcL24w">Let Dagny run and grow your business.</a><br/>Aug 6, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uJ9j1DNX46o"><img width="140px" src="https://i.ytimg.com/vi/uJ9j1DNX46o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uJ9j1DNX46o">One super agent that runs and grows your business.</a><br/>Aug 6, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=w4cFhRc3Vr4"><img width="140px" src="https://i.ytimg.com/vi/w4cFhRc3Vr4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w4cFhRc3Vr4">Built an AI Agent from Screenshot &amp; Deployed as Full Stack App!</a><br/>Dec 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0xWvm1XR0xo"><img width="140px" src="https://i.ytimg.com/vi/0xWvm1XR0xo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0xWvm1XR0xo">Customers asked how Databutton is different than Bolt.new, so we did a livestream</a><br/>Nov 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/6QGQpvVOyM8"><img width="140px" src="https://i.ytimg.com/vi/6QGQpvVOyM8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/6QGQpvVOyM8">AI AGENTS simplified in 60 Seconds  #aiagents #ai #aicode  #aiagent #aiappdevelopment #aicode</a><br/>Nov 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SFhGqmQ6uFk"><img width="140px" src="https://i.ytimg.com/vi/SFhGqmQ6uFk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SFhGqmQ6uFk">Simplest Way to Build AI Agents Explained &lpar; And use them in Your Full Stack APPS !&rpar;</a><br/>Nov 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GiAqN402Kgs"><img width="140px" src="https://i.ytimg.com/vi/GiAqN402Kgs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GiAqN402Kgs">&lpar;Not Just Hype!&rpar; Build a Multi-Agent AI App with Just Prompts? Watch Live—A Real Backend &amp; Slick UI</a><br/>Oct 26, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
