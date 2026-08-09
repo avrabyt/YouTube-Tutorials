@@ -20,16 +20,16 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/qx03oPcL24w"><img width="140px" src="https://i.ytimg.com/vi/qx03oPcL24w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-bedLHlgVMA"><img width="140px" src="https://i.ytimg.com/vi/-bedLHlgVMA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-bedLHlgVMA">AI AGENT for everyone, everywhere.</a><br/>Aug 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/9vZZUOERBCs"><img width="140px" src="https://i.ytimg.com/vi/9vZZUOERBCs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/9vZZUOERBCs">AI agent to run and grow your business.</a><br/>Aug 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/qx03oPcL24w"><img width="140px" src="https://i.ytimg.com/vi/qx03oPcL24w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/qx03oPcL24w">Let Dagny run and grow your business.</a><br/>Aug 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uJ9j1DNX46o"><img width="140px" src="https://i.ytimg.com/vi/uJ9j1DNX46o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uJ9j1DNX46o">One super agent that runs and grows your business.</a><br/>Aug 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=w4cFhRc3Vr4"><img width="140px" src="https://i.ytimg.com/vi/w4cFhRc3Vr4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w4cFhRc3Vr4">Built an AI Agent from Screenshot &amp; Deployed as Full Stack App!</a><br/>Dec 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0xWvm1XR0xo"><img width="140px" src="https://i.ytimg.com/vi/0xWvm1XR0xo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0xWvm1XR0xo">Customers asked how Databutton is different than Bolt.new, so we did a livestream</a><br/>Nov 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/6QGQpvVOyM8"><img width="140px" src="https://i.ytimg.com/vi/6QGQpvVOyM8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/6QGQpvVOyM8">AI AGENTS simplified in 60 Seconds  #aiagents #ai #aicode  #aiagent #aiappdevelopment #aicode</a><br/>Nov 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ"><img width="140px" src="https://i.ytimg.com/vi/HEySHFKMocQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ">Avra Live Stream</a><br/>Oct 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0"><img width="140px" src="https://i.ytimg.com/vi/Yh1GEWqgkt0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0">Build your own RAG &lpar;retrieval augmented generation&rpar; AI Chatbot using Python | Simple walkthrough</a><br/>Nov 3, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
