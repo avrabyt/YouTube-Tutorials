@@ -20,7 +20,9 @@
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-bedLHlgVMA"><img width="140px" src="https://i.ytimg.com/vi/-bedLHlgVMA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=P9dTXYzIA2w"><img width="140px" src="https://i.ytimg.com/vi/P9dTXYzIA2w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=P9dTXYzIA2w">AI agent that works while you are asleep</a><br/>Aug 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-bedLHlgVMA"><img width="140px" src="https://i.ytimg.com/vi/-bedLHlgVMA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-bedLHlgVMA">AI AGENT for everyone, everywhere.</a><br/>Aug 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/9vZZUOERBCs"><img width="140px" src="https://i.ytimg.com/vi/9vZZUOERBCs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/9vZZUOERBCs">AI agent to run and grow your business.</a><br/>Aug 8, 2026</td></tr></table>
@@ -28,8 +30,6 @@
 <td><a href="https://www.youtube.com/shorts/qx03oPcL24w">Let Dagny run and grow your business.</a><br/>Aug 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ"><img width="140px" src="https://i.ytimg.com/vi/HEySHFKMocQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ">Avra Live Stream</a><br/>Oct 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0"><img width="140px" src="https://i.ytimg.com/vi/Yh1GEWqgkt0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Yh1GEWqgkt0">Build your own RAG &lpar;retrieval augmented generation&rpar; AI Chatbot using Python | Simple walkthrough</a><br/>Nov 3, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
