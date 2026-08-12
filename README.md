@@ -28,8 +28,8 @@
 <td><a href="https://www.youtube.com/shorts/9vZZUOERBCs">AI agent to run and grow your business.</a><br/>Aug 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/qx03oPcL24w"><img width="140px" src="https://i.ytimg.com/vi/qx03oPcL24w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/qx03oPcL24w">Let Dagny run and grow your business.</a><br/>Aug 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ"><img width="140px" src="https://i.ytimg.com/vi/HEySHFKMocQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HEySHFKMocQ">Avra Live Stream</a><br/>Oct 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uJ9j1DNX46o"><img width="140px" src="https://i.ytimg.com/vi/uJ9j1DNX46o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uJ9j1DNX46o">One super agent that runs and grows your business.</a><br/>Aug 6, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
