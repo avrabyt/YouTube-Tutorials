@@ -38,11 +38,11 @@
 [![Latest blog post workflow](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/blog-post-workflow.yml)
 
 <!-- BLOG-POST-LIST:START -->
+- [Your WordPress site is fine, until it isn’t](https://medium.com/@avra42/your-wordpress-site-is-fine-until-it-isnt-48626434c4f6?source=rss-bf79cad6afa1------2)
 - [Why we stopped using RAG in our product](https://medium.com/@avra42/why-we-stopped-using-rag-in-our-product-5709c246b4fc?source=rss-bf79cad6afa1------2)
 - [I gave our AI a tiny judge. It got 32% cheaper and 10 seconds faster.](https://medium.com/@avra42/i-gave-our-ai-a-tiny-judge-it-got-32-cheaper-and-10-seconds-faster-232722a74d01?source=rss-bf79cad6afa1------2)
 - [Agentic Service Systems.](https://medium.com/@avra42/agentic-service-systems-eb923038b4ce?source=rss-bf79cad6afa1------2)
 - [We generated $100K+ ARR in &lt;45 days. Era of agentic‑native agencies?](https://medium.com/@avra42/we-generated-100k-arr-in-45-days-era-of-agentic-native-agency-57e054ba1631?source=rss-bf79cad6afa1------2)
-- [What 6 months of customer interviews taught me about data tools](https://medium.com/@avra42/what-6-months-of-customer-interviews-taught-me-about-data-tools-6501b04713a7?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 -----
 **Weekly Newsletter** : https://weekly-aistacks.beehiiv.com/subscribe
